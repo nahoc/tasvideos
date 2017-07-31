@@ -44,8 +44,14 @@ a {
   a:link, a:visited, a:hover, a:active {
     color: #0275d8; }
 
+.navbar {
+  background-image: url("../images/bg.png");
+  background-repeat: no-repeat;
+  background-position: top left; }
+
 .navbar-brand {
-  color: #ffffff; }
+  color: #ffffff;
+  margin-left: 45px; }
 
 h2 {
   font-size: 0.8rem;
