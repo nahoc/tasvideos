@@ -1,5 +1,7 @@
 <?php
  
+//error_reporting(0);
+
 function getFeedPub($feed_url) {
      
     $content = file_get_contents($feed_url);
@@ -14,17 +16,14 @@ function getFeedPub($feed_url) {
     foreach($x->channel->item as $entry) {
 
         $image = $entry->children("media", true)->group->thumbnail->attributes()['url'];
+
         $youtube = $entry->children("media", true)->group->player->attributes()['url'];
+        
         $title = $entry->title;
         $link = $entry->link;
         $guid = $entry->guid;
         $description = $entry->description;
         $category = $entry->category;
-        $rating = $entry->children("media", true)->group->children("community", true)->starRating->attributes()['average'];
-        //echo 'ratingz: ';
-        //echo '<pre>';
-        //echo($category);
-        //echo '</pre>';
     
     ?> 
         
