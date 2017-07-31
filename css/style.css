@@ -1,0 +1,43 @@
+.content {
+  margin-top: 56px; }
+
+.pub-list {
+  padding: 0;
+  list-style: none; }
+
+.bg-inverse {
+  background-color: #531f86 !important; }
+
+img {
+  width: 100%;
+  float: left;
+   }
+
+   h1 {
+       font-size: 2rem;
+   }
+
+h2 {
+  font-size: 0.8rem;
+  margin-top: 5px; 
+  background-color: #531f86;
+  color: #FFFFFF;
+  padding: 8px;
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+.publication {
+  float: left;
+  clear: both; }
+
+.publication-content {
+    margin-top: 0.7rem;
+  float: left;
+  width: 100%; }
+
+p {
+  font-size: 0.7rem; 
+margin-bottom: 0.7rem;}
+
+/*# sourceMappingURL=style.css.map */

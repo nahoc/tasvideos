@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TASVideos Publications</title>
+    <link>http://tasvideos.org/NewMovies.html</link>
+    <description>The TASVideos site is a place for movies of various console games being played extraordinarily using an emulator as a tool to get over humanly limits such as "skill" and "reaction".</description>
+    <language>en</language>
+    <copyright>(C) TASVideos and its authors</copyright>
+    <managingEditor>adelikat@tasvideos.org (Andrés Delikat)</managingEditor>
+    <webMaster>nach@tasvideos.org (Nach)</webMaster>
+    <pubDate>Sun, 30 Jul 2017 14:00:02 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2017 14:00:02 +0000</lastBuildDate>
+    <category>Emulators</category>
+    <category>Console games</category>
+    <category>Game movies</category>
+    <category>Video games</category>
+    <generator>TASVideos RSS Generator</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
+    <image>
+      <title>TASVideos Publications</title>
+      <link>http://tasvideos.org/NewMovies.html</link>
+      <url>http://tasvideos.org/css/tasvideos_rss.png</url>
+    </image>
+    <atom:link href="http://tasvideos.org/publications.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[3484] GB Fortified Zone (USA) by TASeditor in 08:59.32 (Published by feos to Moons)</title>
+      <link>http://tasvideos.org/3484M.html</link>
+      <description>&lt;em&gt;Fortified Zone&lt;/em&gt; follows heroes Masato Kanzaki and Mizuki Makimura as they infiltrate a... fortified zone.
+&lt;p/&gt;The gameplay is much more interesting though.  The author fully utilizes the ability to switch between the two characters on the fly. Weapons are fired very precisely, and some interesting glitching is used to skip parts of the first two levels.
+&lt;p/&gt;This run beats the &lt;a title=&quot;[2019] GB Fortified Zone (USA) by TASeditor in 09:38.57&quot; href=&quot;//tasvideos.org/2019M.html&quot;&gt;predecessor movie&lt;/a&gt; by &lt;abbr title=&quot;2,502 Frames @60 FPS&quot;&gt;41.70&lt;/abbr&gt; seconds.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (feos)</author>
+      <category>Takes damage to save time</category>
+      <category>Genre: Action</category>
+      <comments>http://tasvideos.org/forum/t/19389</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/taseditorv2-fortifiedzone.zip" fileSize="10225" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3484M.png" />
+        <media:content url="http://tracker.tasvideos.org/fortifiedzone-tasv2-taseditor.mkv.torrent" fileSize="10140057" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/fortifiedzone-tasv2-taseditor.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/fortifiedzone-tasv2-taseditor_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/fortifiedzone-tasv2-taseditor/fortifiedzone-tasv2-taseditor.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/fortifiedzone-tasv2-taseditor/fortifiedzone-tasv2-taseditor_512kb.mp4" type="video/mp4" medium="video" />
+      </media:group>
+      <enclosure length="10140057" url="http://tracker.tasvideos.org/fortifiedzone-tasv2-taseditor.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3484M.html</guid>
+      <pubDate>Sat, 29 Jul 2017 14:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3483] GG Sonic the Hedgehog (any v1.0) by The8bitbeast in 19:17.89 (Published by feos to Moons)</title>
+      <link>http://tasvideos.org/3483M.html</link>
+      <description>The Sonic games for the Sega Master System and the Game Gear are much less well known than their Genesis/Mega Drive counterparts and have a reputation for being quite challenging, especially in handheld form.  You'd never know this from the speed Sonic blazes through the game here.
+&lt;p/&gt;Unlike later 8-bit Sonic games, there are significant differences in levels between the SMS version and the Game Gear version; here the latter is used primarily for faster boss fights.
+&lt;p/&gt;This run improves the &lt;a title=&quot;[1423] GG Sonic the Hedgehog (USA) by sgrunt in 19:18.7&quot; href=&quot;//tasvideos.org/1423M.html&quot;&gt;predecessor movie&lt;/a&gt; by &lt;abbr title=&quot;138 Frames @60 FPS&quot;&gt;2.29&lt;/abbr&gt; real-time seconds, and by &lt;abbr title=&quot;4,938 Frames @60 FPS&quot;&gt;1:22.29&lt;/abbr&gt; minutes of total in-level time. What makes the real-time difference so small is the larger time bonuses. To compensate for that, the author has made an &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;iBA26B609_1&quot; href=&quot;//www.youtube.com/watch?v=CbseNBqorfs&quot;&gt;encode&lt;/a&gt; that cuts out the bonus screen and the level title cards.
+&lt;p/&gt;If you like this run, also check out &lt;a title=&quot;[1019] SMS Sonic the Hedgehog 2 (USA/Europe v1.0) &amp;quot;best ending&amp;quot; by mike89 in 18:44.28&quot; href=&quot;//tasvideos.org/1019M.html&quot;&gt;the run for SMS Sonic 2&lt;/a&gt;.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (feos)</author>
+      <category>Uses death to save time</category>
+      <category>Takes damage to save time</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19393</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/the8bitbeast-sonic_gg.zip" fileSize="17976" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3483M.png" />
+        <media:content url="http://tracker.tasvideos.org/sonic_gg-tas-the8bitbeast.mkv.torrent" fileSize="27774603" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/sonic_gg-tas-the8bitbeast.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/sonic_gg-tas-the8bitbeast_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/sonic_gg-tas-the8bitbeast/sonic_gg-tas-the8bitbeast.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/sonic_gg-tas-the8bitbeast/sonic_gg-tas-the8bitbeast_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="7.9066666666645" count="3" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="27774603" url="http://tracker.tasvideos.org/sonic_gg-tas-the8bitbeast.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3483M.html</guid>
+      <pubDate>Sat, 29 Jul 2017 06:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3479] SNES F-Zero (USA) &quot;Knight League Circuit&quot; by nymx in 12:16.89 (Published by feos to Moons)</title>
+      <link>http://tasvideos.org/3479M.html</link>
+      <description>&lt;em&gt;F-Zero&lt;/em&gt; is a futuristic racing video game developed by Nintendo EAD and published by Nintendo for the SNES in 1990. The game is normally played with through one of three leagues, known as Knight, Queen, and King leagues. This TAS features the first league.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (feos)</author>
+      <category>Genre: Racing</category>
+      <comments>http://tasvideos.org/forum/t/19323</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/lsmv/nymx-fzero-knightleaguecircuit.zip" fileSize="20046" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3479M.png" />
+        <media:content url="http://tracker.tasvideos.org/fzero-tas-knightleaguecircuit-nymx.mkv.torrent" fileSize="191597711" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/fzero-tas-knightleaguecircuit-nymx.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/fzero-tas-knightleaguecircuit-nymx_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/fzero-tas-knightleaguecircuit-nymx/fzero-tas-knightleaguecircuit-nymx.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/fzero-tas-knightleaguecircuit-nymx/fzero-tas-knightleaguecircuit-nymx_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="7.435" count="4" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="191597711" url="http://tracker.tasvideos.org/fzero-tas-knightleaguecircuit-nymx.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3479M.html</guid>
+      <pubDate>Tue, 25 Jul 2017 16:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3476] Uzebox B.C. Dash (unknown) by Mothrayas in 01:09.75 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3476M.html</link>
+      <description>&lt;em&gt;B.C. Dash&lt;/em&gt; is a platformer game for the Uzebox, developed by Paul McPhee and released on October 25th, 2009. The goal is to pass through a single long hazardous stage, filled with tricky jumps, awkard terrain, and many different artifacts and powerups along the way. After reaching the finish line, your fastest time is recorded and the stage loops again for another run.
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Mothrayas.html&quot;&gt;Mothrayas&lt;/a&gt; dashes through the game in record time.
+&lt;p/&gt;This is the first ever Uzebox publication on this site. Quoting from &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i7140D3E0_1&quot; href=&quot;http://uzebox.org/wiki/index.php?title=Main_Page&quot;&gt;the Uzebox wiki&lt;/a&gt;:&lt;br/&gt;
+&lt;em&gt;The Uzebox is a retro-minimalist homebrew game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it's based on an interrupt driven kernel and has no frame buffer. Functions such as video sync generation, tile rendering and music mixing is done realtime by a background task so games can easily be developed in C. The design goal was to be as simple as possible yet have good enough sound and graphics while leaving enough resources to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyi...
+&lt;hr/&gt;
+&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19372</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/mothrayas-bcdash.zip" fileSize="2798" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3476M-optimized.png" />
+        <media:content url="http://tracker.tasvideos.org/bcdash-tas-mothrayas.mkv.torrent" fileSize="2714132" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/bcdash-tas-mothrayas.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/bcdash-tas-mothrayas_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/bcdash-tas-mothrayas/bcdash-tas-mothrayas.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/bcdash-tas-mothrayas/bcdash-tas-mothrayas_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=2HsycVlu1zE" />
+        <media:community>
+          <media:starRating average="6.9541666666655" count="3.5" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="2714132" url="http://tracker.tasvideos.org/bcdash-tas-mothrayas.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3476M.html</guid>
+      <pubDate>Sat, 22 Jul 2017 11:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3474] GBA Castlevania: Harmony of Dissonance (USA) &quot;all furniture, best ending&quot; by hellagels in 13:45.57 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3474M.html</link>
+      <description>In &lt;em&gt;Castlevania: Harmony of Dissonance&lt;/em&gt;, the Belmont clan must again rise to the challenge:  Dracula's castle is in disarray and is in serious need of an interior decorator!  In this movie, Juste Belmont zips through walls, under floors, and over zombies with the very important task of rearranging furniture.  (He also defeats Dracula and rescues his best friends along the way, but that's not very important.)
+&lt;p/&gt;This movie is a &lt;abbr title=&quot;23,549 Frames @60 FPS&quot;&gt;6:32.48&lt;/abbr&gt; improvement over its &lt;a title=&quot;[2448] GBA Castlevania: Harmony of Dissonance (USA) &amp;quot;all furniture, best ending&amp;quot; by McBobX in 20:19.84&quot; href=&quot;//tasvideos.org/2448M.html&quot;&gt;predecessor&lt;/a&gt;, thanks to several new improvements and optimizations.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Contains speed/entertainment tradeoffs</category>
+      <category>Best ending</category>
+      <category>Forgoes time-saving damage</category>
+      <category>Uses warps</category>
+      <category>Uses a game restart sequence</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19318</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/vbm/hellagelsv1-castlevaniahod-allfurniturebestending.zip" fileSize="98876" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3474M.png.jpg" />
+        <media:content url="http://tracker.tasvideos.org/castlevaniahod-tas-hellagels.mkv.torrent" fileSize="57778269" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/castlevaniahod-tas-hellagels.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/castlevaniahod-tas-hellagels_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/castlevaniahod-tas-hellagels/castlevaniahod-tas-hellagels.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/castlevaniahod-tas-hellagels/castlevaniahod-tas-hellagels_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=D2KVGNVVjVk" />
+        <media:community>
+          <media:starRating average="9.039615503993" count="9" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="57778269" url="http://tracker.tasvideos.org/castlevaniahod-tas-hellagels.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3474M.html</guid>
+      <pubDate>Wed, 19 Jul 2017 15:46:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3472] NES Hammerin' Harry (JPN) by McBobX in 06:58.81 (Published by feos to Moons)</title>
+      <link>http://tasvideos.org/3472M.html</link>
+      <description>Hammerin' Harry is a pretty simple platformer. Armed with a big hammer, you make your way through 5 levels, and the first 3 levels have bonus levels as well. At the end of each level there is a boss, and in some levels, there are also mini-bosses. In short, this game is a &amp;quot;normal&amp;quot; platformer, you won't have a hard time figuring out what's going on.
+&lt;p/&gt;McBobX improves on the &lt;a title=&quot;[1830] NES Hammerin' Harry (JPN) by nitrogenesis in 07:11.39&quot; href=&quot;//tasvideos.org/1830M.html&quot;&gt;previous movie&lt;/a&gt; by &lt;abbr title=&quot;756 Frames @60 FPS&quot;&gt;12.59&lt;/abbr&gt; seconds thanks to more optimizations, some new tricks and lag reduction. For more info, we recommend reading the &lt;a title=&quot;#5589: McBobX's NES Hammerin' Harry in 06:58.81&quot; href=&quot;//tasvideos.org/5589S.html&quot;&gt;submission text&lt;/a&gt;.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (feos)</author>
+      <category>Takes damage to save time</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19345</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/fm2/mcbobx-hammerinharry.zip" fileSize="579171" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3472M.png" />
+        <media:content url="http://tracker.tasvideos.org/hammerinharry-tas-mcbobx.mkv.torrent" fileSize="15106442" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/hammerinharry-tas-mcbobx.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/hammerinharry-tas-mcbobx_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/hammerinharry-tas-mcbobx/hammerinharry-tas-mcbobx.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/hammerinharry-tas-mcbobx/hammerinharry-tas-mcbobx_512kb.mp4" type="video/mp4" medium="video" />
+      </media:group>
+      <enclosure length="15106442" url="http://tracker.tasvideos.org/hammerinharry-tas-mcbobx.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3472M.html</guid>
+      <pubDate>Tue, 18 Jul 2017 17:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3468] Windows Yume Nikki (JPN v0.10) by poco_cpp in 10:00.37 (Published by feos to Moons)</title>
+      <link>http://tasvideos.org/3468M.html</link>
+      <description>&lt;em&gt;Yume Nikki&lt;/em&gt; (ゆめにっき, lit. Dream Diary) is a surrealistic adventure game by indie Japanese developer Kikiyama. The game was created using RPG Maker 2003, but has few role-playing game (RPG) elements. Players explore the dreams of a hikikomori character named Madotsuki (窓付き, lit. windowed). The initial version of the game was released on June 26, 2004, with subsequent updates over time, the last occurring in 2007.
+&lt;p/&gt;This run by poco_cpp extensively utilizes a glitch involving a desk chair to allow Madotsuki to move at 8X her normal speed, allowing the 24 effects to be collected in record time.
+&lt;p/&gt;&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (feos)</author>
+      <category>Genre: Adventure</category>
+      <comments>http://tasvideos.org/forum/t/19343</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/wtf/poco_cpp-yumenikki.zip" fileSize="289200" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3468M.png" />
+        <media:content url="http://tracker.tasvideos.org/yumenikki-tas-poco_cpp.mkv.torrent" fileSize="23062125" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/yumenikki-tas-poco_cpp.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/yumenikki-tas-poco_cpp_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/yumenikki-tas-poco_cpp/yumenikki-tas-poco_cpp.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/yumenikki-tas-poco_cpp/yumenikki-tas-poco_cpp_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.nicovideo.jp/watch/sm31523263" />
+        <media:community>
+          <media:starRating average="6.8825" count="3.5" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="23062125" url="http://tracker.tasvideos.org/yumenikki-tas-poco_cpp.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3468M.html</guid>
+      <pubDate>Sun, 16 Jul 2017 13:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3467] PCECD Final Zone II (USA) by Mothrayas in 08:07.11 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3467M.html</link>
+      <description>&lt;em&gt;Final Zone II&lt;/em&gt; is a top down shooter in which you control various soldiers throughout the game. The objective of the game is to fight an enemy army led by &amp;quot;ZOD&amp;quot;, who is a mass murderer and killed some of your commando friends. There are several manga-style cutscenes in the game, all of which have been really cheesily dubbed to English. The game also features the &amp;quot;best&amp;quot; song to ever feature in a video game, that is, Momoco's theme (which you'll hear in Round 4).
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Mothrayas.html&quot;&gt;Mothrayas&lt;/a&gt; defeats Ruman in record time.
+&lt;p/&gt;If you want to see the game being riffed along with all the cutscenes, we recommend watching the videos by retsupurae:&lt;br/&gt;
+&lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i6DAF4A5E_1&quot; href=&quot;https://www.youtube.com/watch?v=ejX9agoO_tY&quot;&gt;Part 1&lt;/a&gt;&lt;br/&gt;
+&lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i6650375F_1&quot; href=&quot;https://www.youtube.com/watch?v=sUWqitoyzSY&quot;&gt;Part 2&lt;/a&gt;
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Takes damage to save time</category>
+      <category>Genre: Shooter</category>
+      <comments>http://tasvideos.org/forum/t/19336</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/mothrayas-finalzoneii.zip" fileSize="10299" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3467M.png" />
+        <media:content url="http://tracker.tasvideos.org/finalzoneii-tas-mothrayas.mkv.torrent" fileSize="21393153" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/finalzoneii-tas-mothrayas.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/finalzoneii-tas-mothrayas_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/finalzoneii-tas-mothrayas/finalzoneii-tas-mothrayas.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/finalzoneii-tas-mothrayas/finalzoneii-tas-mothrayas_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=7xCiaozJgGs" />
+        <media:community>
+          <media:starRating average="8.25" count="2" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="21393153" url="http://tracker.tasvideos.org/finalzoneii-tas-mothrayas.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3467M.html</guid>
+      <pubDate>Sun, 16 Jul 2017 11:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3466] Wii Castlevania: The Adventure ReBirth (USA) by zggzdydp in 18:29.4 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3466M.html</link>
+      <description>&lt;em&gt;Castlevania: The Adventure ReBirth&lt;/em&gt; is a WiiWare game that was released in 2009 by Konami. It is a remake of &lt;a title=&quot;[1612] GBC Konami GB Collection Vol. 1: The Castlevania Adventure (Europe) by arukAdo in 14:58.7&quot; href=&quot;//tasvideos.org/1612M.html&quot;&gt;the Game Boy game&lt;/a&gt;, starring Christopher Belmont, seeking to defeat Dracula.
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Zggzdydp.html&quot;&gt;zggzdydp&lt;/a&gt;, using various tricks, defeats Count Dracula in record time.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Takes damage to save time</category>
+      <category>Uses hardest difficulty</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19315</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/dtm/zggzdydp-castlevaniatheadventurerebirth.zip" fileSize="4988759" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3466M.jpg" />
+        <media:content url="http://tracker.tasvideos.org/castlevaniatheadventurerebirth-tas-zggzdydp.mkv.torrent" fileSize="183913861" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/castlevaniatheadventurerebirth-tas-zggzdydp.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/castlevaniatheadventurerebirth-tas-zggzdydp_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/castlevaniatheadventurerebirth-tas-zggzdydp/castlevaniatheadventurerebirth-tas-zggzdydp.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/castlevaniatheadventurerebirth-tas-zggzdydp/castlevaniatheadventurerebirth-tas-zggzdydp_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=1Z6vVOFkL8A" />
+        <media:community>
+          <media:starRating average="7.43625" count="4" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="183913861" url="http://tracker.tasvideos.org/castlevaniatheadventurerebirth-tas-zggzdydp.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3466M.html</guid>
+      <pubDate>Sat, 15 Jul 2017 16:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3464] Genesis Pink Panther in Pink Goes to Hollywood (USA) by wesen in 14:50.91 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3464M.html</link>
+      <description>&lt;em&gt;Pink Panther in: Pink Goes to Hollywood&lt;/em&gt; is a platformer from Manley and Associates released in 1993, which was published in Europe and the US by TecMagic and in Japan by Altron (where it was simply known as Pink Panther). The game follows the Pink Panther's adventures across numerous film sets in Hollywood, trying to find fame and fortune while eluding the tenacious Inspector Clouseau.
+&lt;p/&gt;wesen makes his way through the Genesis version of the game as quick as possible.
+&lt;p/&gt;There is also a &lt;a title=&quot;[3460] SNES Pink Panther in Pink Goes to Hollywood (USA) by wesen in 09:48.05&quot; href=&quot;//tasvideos.org/3460M.html&quot;&gt;SNES version&lt;/a&gt; of the run also created by wesen.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19313</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/wesenv1-pinkpanther-genesis.zip" fileSize="23225" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3464M.png" />
+        <media:content url="http://tracker.tasvideos.org/pinkpanther-genesis-tas-wesen.mkv.torrent" fileSize="42159719" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/pinkpanther-genesis-tas-wesen.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/pinkpanther-genesis-tas-wesen_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/pinkpanther-genesis-tas-wesen/pinkpanther-genesis-tas-wesen.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/pinkpanther-genesis-tas-wesen/pinkpanther-genesis-tas-wesen_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=yr-msLL00vQ" />
+        <media:community>
+          <media:starRating average="6.93" count="1" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="42159719" url="http://tracker.tasvideos.org/pinkpanther-genesis-tas-wesen.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3464M.html</guid>
+      <pubDate>Mon, 10 Jul 2017 17:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3463] N64 The Legend of Zelda: Ocarina of Time (JPN v1.0) &quot;All Dungeons, Temples &amp; Ganon Trials&quot; by homerfunky in 1:42:29.53 (Published by Aktan to Moons)</title>
+      <link>http://tasvideos.org/3463M.html</link>
+      <description>In this TAS of &lt;em&gt;The Legend of Zelda: Ocarina of Time&lt;/em&gt;, the author aims to beat the game as quickly as possible while completing all dungeons, temples, and Ganon Trials. This goal is commonly referred to as &amp;quot;all temples&amp;quot;, &amp;quot;all dungeons&amp;quot;, or &amp;quot;MST (Medallions/Stones/Trials)&amp;quot;.
+&lt;p/&gt;This run has &lt;abbr title=&quot;80,141 Frames @60 FPS&quot;&gt;22:15.68&lt;/abbr&gt; minutes of improvements in gameplay over the &lt;a title=&quot;[2020] N64 The Legend of Zelda: Ocarina of Time (JPN v1.0) &amp;quot;all dungeons, temples &amp;amp; Ganon trials&amp;quot; by Swordless Link in 2:04:45.22&quot; href=&quot;//tasvideos.org/2020M.html&quot;&gt;previous&lt;/a&gt; TAS of its kind.
+&lt;p/&gt;This movie contains a newer route and newer strategies which allow for a much faster completion than were possible when the last run was made. Several large glitches in the game are not used in the run, such as the Reverse Bottle Adventure or the Get Item Manipulation glitch. These are avoided because it would make the completion of any dungeon completely arbitrary; they can be seen in an old &lt;a title=&quot;[1616] N64 The Legend of Zelda: Ocarina of Time (USA v1.0) by Bloobiebla in 56:54.2&quot; href=&quot;//tasvideos.org/1616M.html&quot;&gt;any%&lt;/a&gt; run.
+&lt;p/&gt;This TAS is played on the Japanese version of the game. The reason for this is that the text is significantly faster than in the English version, which means that far less time (roughly 12 minutes) is spent waiting for text boxes and cut scenes to end before getting back to the action.
+&lt;p/&gt;The &lt;a title=&quot;#5557: homerfunky's N64 The Legend of Zelda: Ocarina of Time &amp;quot;All Dungeons, Temples &amp;amp; Ganon Trials&amp;quot;  in 1:42:29.53&quot; href=&quot;//tasvideos.org/5557S.html&quot;&gt;author's notes&lt;/a&gt; explain in great detail many of the things done in this TAS whi...
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Aktan)</author>
+      <category>Uses death to save time</category>
+      <category>Takes damage to save time</category>
+      <category>Uses warps</category>
+      <category>Forgoes major skip glitch</category>
+      <category>Uses a game restart sequence</category>
+      <category>Heavy glitch abuse</category>
+      <category>Forgoes time-saving glitches</category>
+      <category>Heavy luck manipulation</category>
+      <category>Genre: Action</category>
+      <category>Genre: Adventure</category>
+      <comments>http://tasvideos.org/forum/t/19257</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/m64/homerfunky-lozootalldungeonstemplesganontrials.zip" fileSize="1694724" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3463M.jpg" />
+        <media:content url="http://tracker.tasvideos.org/lozoot-tas-alldungeonstemplesganontrials-homerfunky.mkv.torrent" fileSize="435210266" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/lozoot-tas-alldungeonstemplesganontrials-homerfunky.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/lozoot-tas-alldungeonstemplesganontrials-homerfunky_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/lozoot-tas-alldungeonstemplesganontrials-homerfunky/lozoot-tas-alldungeonstemplesganontrials-homerfunky.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/lozoot-tas-alldungeonstemplesganontrials-homerfunky/lozoot-tas-alldungeonstemplesganontrials-homerfunky_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://aktan.site90.com/?vid=lozoot-tas-alldungeonstemplesganontrials-homerfunky/lozoot-tas-alldungeonstemplesganontrials-homerfunky_512kb" />
+        <media:community>
+          <media:starRating average="8.855264150146" count="5.5" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="435210266" url="http://tracker.tasvideos.org/lozoot-tas-alldungeonstemplesganontrials-homerfunky.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3463M.html</guid>
+      <pubDate>Sun, 09 Jul 2017 22:07:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3462] GG Sonic Blast (USA) by Challenger in 11:30.96 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3462M.html</link>
+      <description>&lt;em&gt;Sonic Blast&lt;/em&gt;, known as &lt;em&gt;G Sonic&lt;/em&gt; (Ｇソニック) in Japan, is a platforming game for the Sega Game Gear released in November 1996. A similarly titled game, &lt;em&gt;Sonic 3D Blast&lt;/em&gt;, was released in the same month for Sega's Genesis and Saturn consoles, though the games had different gameplay, plot, and a separate development team, as this game was developed by Aspect, whereas &lt;em&gt;Sonic 3D Blast&lt;/em&gt; was a joint venture between Traveller's Tales and Sonic Team.
+&lt;p/&gt;Challenger completes the game in record time.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Aims for in-game time instead of real-time</category>
+      <category>Takes damage to save time</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19330</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/challenger-sonicblast-gg.zip" fileSize="9321" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3462M.png" />
+        <media:content url="http://tracker.tasvideos.org/sonicblast-gg-tas-challenger.mkv.torrent" fileSize="18478467" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/sonicblast-gg-tas-challenger.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/sonicblast-gg-tas-challenger_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/sonicblast-gg-tas-challenger/sonicblast-gg-tas-challenger.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/sonicblast-gg-tas-challenger/sonicblast-gg-tas-challenger_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=ulPHJ8OP5EY" />
+        <media:community>
+          <media:starRating average="7.2375" count="4" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="18478467" url="http://tracker.tasvideos.org/sonicblast-gg-tas-challenger.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3462M.html</guid>
+      <pubDate>Sat, 08 Jul 2017 12:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3460] SNES Pink Panther in Pink Goes to Hollywood (USA) by wesen in 09:48.05 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3460M.html</link>
+      <description>&lt;em&gt;Pink Panther in: Pink Goes to Hollywood&lt;/em&gt; is a platformer from Manley and Associates released in 1993, which was published in Europe and the US by TecMagic and in Japan by Altron (where it was simply known as Pink Panther). The game follows the Pink Panther's adventures across numerous film sets in Hollywood, trying to find fame and fortune while eluding the tenacious Inspector Clouseau.
+&lt;p/&gt;wesen makes his way through the SNES version of the game as quick as possible.
+&lt;p/&gt;There is also a &lt;a title=&quot;[3464] Genesis Pink Panther in Pink Goes to Hollywood (USA) by wesen in 14:50.91&quot; href=&quot;//tasvideos.org/3464M.html&quot;&gt;Genesis version&lt;/a&gt; of the run also created by wesen.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19297</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/wesenv1-pinkpanther-snes.zip" fileSize="15124" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3460M.png" />
+        <media:content url="http://tracker.tasvideos.org/pinkpanther-snes-tas-wesen.mkv.torrent" fileSize="34668283" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/pinkpanther-snes-tas-wesen.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/pinkpanther-snes-tas-wesen_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/pinkpanther-snes-tas-wesen/pinkpanther-snes-tas-wesen.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/pinkpanther-snes-tas-wesen/pinkpanther-snes-tas-wesen_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="6.805" count="1" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="34668283" url="http://tracker.tasvideos.org/pinkpanther-snes-tas-wesen.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3460M.html</guid>
+      <pubDate>Fri, 07 Jul 2017 02:23:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3458] GBC Bomberman Quest (USA) &quot;game end glitch&quot; by ThunderAxe31 in 06:35.66 (Published by Spikestuff to Moons)</title>
+      <link>http://tasvideos.org/3458M.html</link>
+      <description>&lt;em&gt;&lt;a href=&quot;//tasvideos.org/TODO.html&quot;&gt;TODO&lt;/a&gt;: describe this movie here&lt;/em&gt;
+&lt;p/&gt;&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Spikestuff)</author>
+      <category>Takes damage to save time</category>
+      <category>Major skip glitch</category>
+      <category>Final boss skip glitch</category>
+      <category>Uses a game restart sequence</category>
+      <category>Genre: Action</category>
+      <category>Genre: RPG</category>
+      <comments>http://tasvideos.org/forum/t/19332</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/thunderaxe31-bombermanquest-geg.zip" fileSize="7548" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3458M.png" />
+        <media:content url="http://tracker.tasvideos.org/bombermanquest-tas-geg-thunderaxe31.mkv.torrent" fileSize="8800756" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/bombermanquest-tas-geg-thunderaxe31.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/bombermanquest-tas-geg-thunderaxe31_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/bombermanquest-tas-geg-thunderaxe31/bombermanquest-tas-geg-thunderaxe31.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/bombermanquest-tas-geg-thunderaxe31/bombermanquest-tas-geg-thunderaxe31_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=oUfZ2W_K47g" />
+        <media:community>
+          <media:starRating average="7.3275" count="2" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="8800756" url="http://tracker.tasvideos.org/bombermanquest-tas-geg-thunderaxe31.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3458M.html</guid>
+      <pubDate>Thu, 06 Jul 2017 15:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3456] SNES Super Mario All-Stars: Lost Levels (USA) &quot;warpless&quot; by HappyLee in 34:36.61 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3456M.html</link>
+      <description>&lt;em&gt;The Lost Levels&lt;/em&gt; is a remake of the game released in Japan as &lt;em&gt;&lt;a title=&quot;[1882] FDS Super Mario Bros. 2 (JPN) by HappyLee in 08:05.28&quot; href=&quot;//tasvideos.org/1882M.html&quot;&gt;Super Mario Bros 2&lt;/a&gt;&lt;/em&gt;. It introduces a number of new obstacles into the standard &lt;em&gt;Super Mario Bros.&lt;/em&gt; formula, including poisonous mushrooms, wind, reverse warp zones, and of course many tricky jumps. It's difficult enough that Nintendo of America decided to completely re-theme a different game and release that as &lt;em&gt;&lt;a title=&quot;[1724] NES Super Mario Bros. 2 (USA PRG0) &amp;quot;warps&amp;quot; by Aglar &amp;amp; Andrewg in 07:41.16&quot; href=&quot;//tasvideos.org/1724M.html&quot;&gt;Super Mario Bros. 2&lt;/a&gt;&lt;/em&gt; instead; &lt;em&gt;The Lost Levels&lt;/em&gt; is the first time the Japanese sequel was released to the rest of the world.
+&lt;p/&gt;This movie saves 164 frames over &lt;a title=&quot;[2296] SNES Super Mario All-Stars: Lost Levels (USA) &amp;quot;warpless&amp;quot; by KFCMARIO in 34:39.34&quot; href=&quot;//tasvideos.org/2296M.html&quot;&gt;previous publication&lt;/a&gt;. All levels are played, including the secret world 9, and the extremely difficult A through D worlds.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Forgoes warps</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19312</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/happyleev1-lostlevels.zip" fileSize="75862" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3456M.png" />
+        <media:content url="http://tracker.tasvideos.org/supermarioallstars_lostlevels-tas-happylee.mkv.torrent" fileSize="80021417" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/supermarioallstars_lostlevels-tas-happylee.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/supermarioallstars_lostlevels-tas-happylee_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/supermarioallstars_lostlevels-tas-happylee/supermarioallstars_lostlevels-tas-happylee.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/supermarioallstars_lostlevels-tas-happylee/supermarioallstars_lostlevels-tas-happylee_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=jNi30RCmv8s" />
+        <media:community>
+          <media:starRating average="8.329029289594" count="4" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="80021417" url="http://tracker.tasvideos.org/supermarioallstars_lostlevels-tas-happylee.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3456M.html</guid>
+      <pubDate>Tue, 04 Jul 2017 14:22:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3453] GB Contra: The Alien Wars (USA) by ThunderAxe31 in 07:37.75 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3453M.html</link>
+      <description>&lt;em&gt;Contra: The Alien Wars&lt;/em&gt; is the third entry in the Contra series. Like its predecessors, it is a predominantly side-scrolling shooter with a heavy emphasis on action. The protagonist can fire in eight directions when standing still. New abilities include climbing on walls, grabbing poles and navigating tanks. Parts of scenery can be destroyed. Originally released on the SNES, this version of the game was released on the Game Boy in 1994.
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/ThunderAxe31.html&quot;&gt;ThunderAxe31&lt;/a&gt; makes quick work of this game, jumping and shooting his way through aliens as fast as possible.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Uses hardest difficulty</category>
+      <category>Genre: Platform</category>
+      <category>Genre: Shooter</category>
+      <comments>http://tasvideos.org/forum/t/19255</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/thunderaxe31v1-contrathealienwars.zip" fileSize="8042" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3453M.png" />
+        <media:content url="http://tracker.tasvideos.org/contrathealienwars-tas-thunderaxe31.mkv.torrent" fileSize="13227485" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/contrathealienwars-tas-thunderaxe31.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/contrathealienwars-tas-thunderaxe31_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/contrathealienwars-tas-thunderaxe31/contrathealienwars-tas-thunderaxe31.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/contrathealienwars-tas-thunderaxe31/contrathealienwars-tas-thunderaxe31_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=hfwW725P-8s" />
+        <media:community>
+          <media:starRating average="7.675" count="1" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="13227485" url="http://tracker.tasvideos.org/contrathealienwars-tas-thunderaxe31.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3453M.html</guid>
+      <pubDate>Mon, 03 Jul 2017 20:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3449] GBC Harry Potter and the Chamber of Secrets (USA/Europe) by SuperMonkeypotato &amp; jlun2 in 1:08:49.74 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3449M.html</link>
+      <description>Harry Potter and the Chamber of Secrets is the sequel to the Sorcerer's Stone for the Game Boy Color released on November 5, 2002. This game is similar in gameplay to the original game with it's turn-based RPG combat system, but now allows use of Harry Potter's two best friends Ron and Hermione in his party in order to help fight creatures. This is the last game that was made for the Game Boy Color.
+&lt;p/&gt;In this run, SuperMonkeypotato and jlun2 traverse through Hogwarts to once again gain the most points for Gryffindor.
+&lt;p/&gt;If you're interested in the first entry of the game on the Game Boy Color, check out &lt;a title=&quot;[3060] GBC Harry Potter and the Sorcerer's Stone (USA) by jlun2 in 1:08:25.48&quot; href=&quot;//tasvideos.org/3060M.html&quot;&gt;this run by jlun2&lt;/a&gt; which goes through the game as fast as possible.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Genre: RPG</category>
+      <comments>http://tasvideos.org/forum/t/19191</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/supermonkeypotato%2Cjlun2v1-harrypottterchambresecret.zip" fileSize="45972" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3449M.png" />
+        <media:content url="http://tracker.tasvideos.org/harrypottterchambresecret-tas-smp,jlun2.mkv.torrent" fileSize="82078332" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/harrypottterchambresecret-tas-smp,jlun2.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/harrypottterchambresecret-tas-smp,jlun2_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/Harrypottterchambresecret-tas-smpjlun2/harrypottterchambresecret-tas-smp,jlun2.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/Harrypottterchambresecret-tas-smpjlun2/harrypottterchambresecret-tas-smp,jlun2_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="5.4" count="1" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="82078332" url="http://tracker.tasvideos.org/harrypottterchambresecret-tas-smp,jlun2.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3449M.html</guid>
+      <pubDate>Mon, 03 Jul 2017 05:59:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3446] NES Super Mario Bros. 2 (USA PRG0) &quot;princess only&quot; by chatterbox in 08:23.77 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3446M.html</link>
+      <description>The concept for this run originated long ago because Princess was the only character not used in the &lt;a title=&quot;[1724] NES Super Mario Bros. 2 (USA PRG0) &amp;quot;warps&amp;quot; by Aglar &amp;amp; Andrewg in 07:41.16&quot; href=&quot;//tasvideos.org/1724M.html&quot;&gt;normal run&lt;/a&gt; aiming for fastest overall time. (In fact, Princess is the only character not used in the fastest &lt;a title=&quot;[1746] NES Super Mario Bros. 2 (USA PRG0) &amp;quot;warpless&amp;quot; by Aglar &amp;amp; Andrewg in 18:29.26&quot; href=&quot;//tasvideos.org/1746M.html&quot;&gt;warpless run&lt;/a&gt; either.)
+&lt;p/&gt;This movie improves the &lt;a title=&quot;[976] NES Super Mario Bros. 2 (USA) &amp;quot;princess only&amp;quot; by adelikat in 08:29.57&quot; href=&quot;//tasvideos.org/976M.html&quot;&gt;previous publication&lt;/a&gt; by 5.8 seconds, thanks to better optimisation and usage of the carpet glitch in 1-2.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Uses a suboptimal character</category>
+      <category>Takes damage to save time</category>
+      <category>Uses warps</category>
+      <category>Heavy glitch abuse</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19244</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/fm2/chatterbox-supermariobros2-princessonly.zip" fileSize="454391" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3446M.png" />
+        <media:content url="http://tracker.tasvideos.org/supermariobros2-tas-princessonly-chatterbox.mkv.torrent" fileSize="15014979" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/supermariobros2-tas-princessonly-chatterbox.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/supermariobros2-tas-princessonly-chatterbox_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/supermariobros2-tas-princessonly-chatterbox/supermariobros2-tas-princessonly-chatterbox.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/supermariobros2-tas-princessonly-chatterbox/supermariobros2-tas-princessonly-chatterbox_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=gCvGAfFJ7wc" />
+        <media:community>
+          <media:starRating average="8.4975" count="2" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="15014979" url="http://tracker.tasvideos.org/supermariobros2-tas-princessonly-chatterbox.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3446M.html</guid>
+      <pubDate>Fri, 30 Jun 2017 19:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3444] DS LEGO Star Wars II: The Original Trilogy (USA) by SkicoNow in 15:15.05 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3444M.html</link>
+      <description>&lt;em&gt;LEGO Star Wars II: The Original Trilogy&lt;/em&gt; for the Nintendo DS is an action-packed LEGO-themed video game based on the original &lt;em&gt;Star Wars&lt;/em&gt; films made by George Lucas. It features 80 playable characters, 17 playable courses, and the ability to make your own customizable characters. Several of the game's characters have their own unique abilities.
+&lt;p/&gt;SkicoNow speeds through the game in record time, thanks to usage of the Host Wireless glitch, enabling infinite jumping, clipping through doors and lowering the boss's health. Please read the &lt;a title=&quot;#5549: SkicoNow's DS LEGO Star Wars II: The Original Trilogy in 15:15.05&quot; href=&quot;//tasvideos.org/5549S.html&quot;&gt;author's submission comments for more details&lt;/a&gt;.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Takes damage to save time</category>
+      <category>Genre: Action</category>
+      <category>Genre: Adventure</category>
+      <comments>http://tasvideos.org/forum/t/19245</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/dsm/skiconow-legostarwarsii_theoriginaltrilogy-ds.zip" fileSize="1478503" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3444M.png" />
+        <media:content url="http://tracker.tasvideos.org/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow.mkv.torrent" fileSize="163556428" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=RXi_DkWGo7g" />
+        <media:community>
+          <media:starRating average="6.935" count="2" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="163556428" url="http://tracker.tasvideos.org/legostarwarsii_theoriginaltrilogy-ds-tas-skiconow.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3444M.html</guid>
+      <pubDate>Thu, 29 Jun 2017 18:19:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3440] PSX Tomb Raider (USA) by lapogne36 in 57:02.81 (Published by Spikestuff to Moons)</title>
+      <link>http://tasvideos.org/3440M.html</link>
+      <description>&lt;em&gt;&lt;a href=&quot;//tasvideos.org/TODO.html&quot;&gt;TODO&lt;/a&gt;: describe this movie here&lt;/em&gt;
+&lt;p/&gt;&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Spikestuff)</author>
+      <category>Aims for in-game time instead of real-time</category>
+      <category>Takes damage to save time</category>
+      <category>Heavy glitch abuse</category>
+      <category>Genre: Action</category>
+      <category>Genre: Adventure</category>
+      <category>Genre: Platform</category>
+      <category>Genre: Puzzle</category>
+      <comments>http://tasvideos.org/forum/t/19168</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/lapogne36-tombraider.zip" fileSize="234730" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3440M.jpg" />
+        <media:content url="http://tracker.tasvideos.org/tombraider-tas-lapogne36.mkv.torrent" fileSize="620913806" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/tombraider-tas-lapogne36.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/tombraider-tas-lapogne36_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/tombraider-tas-lapogne36/tombraider-tas-lapogne36.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/tombraider-tas-lapogne36/tombraider-tas-lapogne36_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=Xkj8jBbpF0w" />
+        <media:community>
+          <media:starRating average="7.18333333333" count="6" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="620913806" url="http://tracker.tasvideos.org/tombraider-tas-lapogne36.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3440M.html</guid>
+      <pubDate>Thu, 22 Jun 2017 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3438] SMS Ninja Gaiden (Europe) by Challenger in 14:17.39 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3438M.html</link>
+      <description>In this &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i3FB23794_1&quot; href=&quot;http://en.wikipedia.org/wiki/Gaiden&quot;&gt;gaiden&lt;/a&gt; of a gaiden, Ryu Hayabusa saves the world from ultimate powers being unleashed. Doing so involves slow battles with sumo wrestlers and members of the Yakuza.
+&lt;p/&gt;This run from Challenger improves upon the previous publication by  by &lt;abbr title=&quot;2,878 Frames @60 FPS&quot;&gt;47.96&lt;/abbr&gt; seconds, thanks to the use of new tricks, including an infinite ammo glitch, as well as better optimization.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Takes damage to save time</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19220</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/challengerv1-ninjagaiden.zip" fileSize="16806" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3438M.png" />
+        <media:content url="http://tracker.tasvideos.org/ninjagaiden-tas-challenger.mkv.torrent" fileSize="39905531" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/ninjagaiden-tas-challenger.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/ninjagaiden-tas-challenger_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/ninjagaiden-tas-challenger/ninjagaiden-tas-challenger.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/ninjagaiden-tas-challenger/ninjagaiden-tas-challenger_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="7.65" count="3" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="39905531" url="http://tracker.tasvideos.org/ninjagaiden-tas-challenger.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3438M.html</guid>
+      <pubDate>Mon, 19 Jun 2017 04:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3435] Arcade Karate Champ (USA) by £e Nécroyeur in 09:07.65 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3435M.html</link>
+      <description>&lt;em&gt;Karate Champ&lt;/em&gt; is an arcade game released by Data East in 1984.  The game was developed for Data East by Technōs Japan.  Even in this early example, Technōs Japan's penchant and talent for designing &amp;quot;fighting&amp;quot; games is readily apparent.  While it was not the first fighting game (not even for Technōs Japan), it was the first to offer such a high degree of realism and sophistication, so much so that it has been identified as the defining game of the one-on-one fighting genre.  The game also features an early example of digitized speech.  The control scheme is atypical, featuring 2 4-way joysticks and no buttons.
+&lt;p/&gt;£e Nécroyeur obtains the champion rank in record time.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Uses hardest difficulty</category>
+      <category>Genre: Fighting</category>
+      <comments>http://tasvideos.org/forum/t/19207</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/mar/lenecroyeur-karatechamp-arcade.zip" fileSize="1445860" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3435M.png" />
+        <media:content url="http://tracker.tasvideos.org/karatechamp-arcade-tas-lenecroyeur.mkv.torrent" fileSize="8220606" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/karatechamp-arcade-tas-lenecroyeur.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/karatechamp-arcade-tas-lenecroyeur_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/karatechamp-arcade-tas-lenecroyeur/karatechamp-arcade-tas-lenecroyeur.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/karatechamp-arcade-tas-lenecroyeur/karatechamp-arcade-tas-lenecroyeur_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=cbsZ0DiIfzk" />
+        <media:community>
+          <media:starRating average="5.8475" count="1.5" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="8220606" url="http://tracker.tasvideos.org/karatechamp-arcade-tas-lenecroyeur.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3435M.html</guid>
+      <pubDate>Sun, 18 Jun 2017 11:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3434] DS Castlevania: Portrait of Ruin (USA) by mtbRc in 04:04.59 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3434M.html</link>
+      <description>The second Castlevania title released on Nintendo DS after &lt;em&gt;Dawn of Sorrow&lt;/em&gt;, this game is a direct sequel to &lt;em&gt;&lt;a title=&quot;[1220] Genesis Castlevania: Bloodlines (USA) &amp;quot;John Morris&amp;quot; by Samhain-Grim &amp;amp; Truncated in 27:36.17&quot; href=&quot;//tasvideos.org/1220M.html&quot;&gt;BloodLines&lt;/a&gt;&lt;/em&gt; on Sega Genesis. Dracula rises from the dead yet again &lt;em&gt;(cue groan)&lt;/em&gt;, and it's up to Jonathan Morris, helped out by Charlotte Aulin, a powerful mage student, to defeat him.
+&lt;p/&gt;This run is an improvement of 14.06 seconds over the &lt;a title=&quot;[2095] DS Castlevania: Portrait Of Ruin (USA) by mtbRc in 04:18.65&quot; href=&quot;//tasvideos.org/2095M.html&quot;&gt;previous run by the same author&lt;/a&gt; and uses many of the same glitches. Yet another slightly different route selection as well as better optimisation sends Dracula back to his coffin even faster.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Takes damage to save time</category>
+      <category>Uses warps</category>
+      <category>Major skip glitch</category>
+      <category>Uses a game restart sequence</category>
+      <category>Heavy glitch abuse</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <category>Genre: RPG</category>
+      <comments>http://tasvideos.org/forum/t/19225</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/dsm/mtbrcv4-castlevaniaportraitofruin.zip" fileSize="395503" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3434M.png" />
+        <media:content url="http://tracker.tasvideos.org/castlevaniaportraitofruin-tasv4-mtbrc.mkv.torrent" fileSize="42695646" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/castlevaniaportraitofruin-tasv4-mtbrc.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/castlevaniaportraitofruin-tasv4-mtbrc_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/castlevaniaportraitofruin-tasv4-mtbrc/castlevaniaportraitofruin-tasv4-mtbrc.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/castlevaniaportraitofruin-tasv4-mtbrc/castlevaniaportraitofruin-tasv4-mtbrc_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=TMjrhk9mKUg" />
+        <media:community>
+          <media:starRating average="8.3108333333355" count="2.5" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="42695646" url="http://tracker.tasvideos.org/castlevaniaportraitofruin-tasv4-mtbrc.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3434M.html</guid>
+      <pubDate>Sat, 17 Jun 2017 18:14:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3431] SGX Madou King Granzort (JPN) by adelikat &amp; Mothrayas in 07:55.91 (Published by fsvgm777 to Moons)</title>
+      <link>http://tasvideos.org/3431M.html</link>
+      <description>The title of the series upon which this game is based, and therefore the game itself, has been rendered a variety of different ways in English; this is perhaps indicative of just how bizarre an experience playing this game is.
+&lt;p/&gt;This is an improvement of 50.17 seconds over the &lt;a title=&quot;[1432] SGX Madou King Granzort (JPN) by arukAdo in 08:46.08&quot; href=&quot;//tasvideos.org/1432M.html&quot;&gt;previous movie&lt;/a&gt;, thanks to better optimisation and better strategies on the bosses. Please read the &lt;a title=&quot;#5528: adelikat &amp;amp; Mothrayas's SGX Madou King Granzort in 07:55.91&quot; href=&quot;//tasvideos.org/5528S.html&quot;&gt;authors' comments&lt;/a&gt; for more details.
+&lt;p/&gt;This game was released for the SuperGrafx, a slight modification of the TurboGrafx-16/PC Engine meant to enhance the graphical capabilities of the console.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (fsvgm777)</author>
+      <category>Takes damage to save time</category>
+      <category>Genre: Action</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19204</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/adelikat%2Cmothrayas-madoukinggranzort.zip" fileSize="7355" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3431M.png" />
+        <media:content url="http://tracker.tasvideos.org/madoukinggranzort-tas-adelikat,mothrayas.mkv.torrent" fileSize="64223310" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/madoukinggranzort-tas-adelikat,mothrayas.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/madoukinggranzort-tas-adelikat,mothrayas_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/Madoukinggranzort-tas-adelikatmothrayas/madoukinggranzort-tas-adelikat,mothrayas.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/Madoukinggranzort-tas-adelikatmothrayas/madoukinggranzort-tas-adelikat,mothrayas_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=Wtl7Fahrdxo" />
+        <media:community>
+          <media:starRating average="7.85" count="2" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="64223310" url="http://tracker.tasvideos.org/madoukinggranzort-tas-adelikat,mothrayas.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3431M.html</guid>
+      <pubDate>Fri, 16 Jun 2017 18:37:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3430] A2600 Dragster (USA) by Omnigamer in 00:08.49 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3430M.html</link>
+      <description>&lt;em&gt;Dragster&lt;/em&gt;, released in 1980 for the Atari 2600, is the first video game developed by Activision. It was programmed by David Crane, who later wrote Pitfall! The object of the game is to either beat the player's opponent across the screen, or to race against the clock for best time, depending on the settings used.
+&lt;p/&gt;The game is well known as having the first console speedrun with the world record of 5.51 by Todd Rogers in 1982 according to Twin Galaxies. This record is known as the oldest, unbeaten world record in all of speedrunning. Omnigamer decided to try and match the elusive 5.51, and disassembled the entire game looking for how the 5.51 was achieved. After conducting his research, Omnigamer found that the long sought 5.51 was impossible to achieve within the conditions of the game, putting into doubt the veracity of the record of Todd Rogers.
+&lt;p/&gt;Instead, this run achieves the fastest possible time of 5.57 on player one, with player two completing the track in the lowest amount of input frames.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Contains speed/entertainment tradeoffs</category>
+      <category>Aims for in-game time instead of real-time</category>
+      <category>2 Players</category>
+      <category>Genre: Racing</category>
+      <comments>http://tasvideos.org/forum/t/19172</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/omnigamerv1-dragster.zip" fileSize="1341" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3430M.png" />
+        <media:content url="http://tracker.tasvideos.org/dragster-tas-omnigamer.mkv.torrent" fileSize="158568" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/dragster-tas-omnigamer.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/dragster-tas-omnigamer_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/dragster-tas-omnigamer/dragster-tas-omnigamer.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/dragster-tas-omnigamer/dragster-tas-omnigamer_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="6.3" count="3.5" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="158568" url="http://tracker.tasvideos.org/dragster-tas-omnigamer.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3430M.html</guid>
+      <pubDate>Fri, 16 Jun 2017 18:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3428] SNES Shin Nekketsu Kouha: Kunio-tachi no Banka (JPN) &quot;2 players&quot; by fcxiaopengyou in 40:41.98 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3428M.html</link>
+      <description>Shin Nekketsu Kōha: Kunio-tachi no Banka is a belt-scrolling action game released by Technos Japan Corp. exclusively in Japan for the Super Famicom in 1994. It was the fourth game in the Kunio-kun series released for the Super Famicom and was developed by Almanic. It is a prequel to Downtown Nekketsu Monogatari (better known as River City Ransom).
+&lt;p/&gt;This run by fcxiaopengyou controls two players, adding double the action as he beats the game as fast as possible.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>2 Players</category>
+      <category>Genre: Action</category>
+      <comments>http://tasvideos.org/forum/t/19115</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/fcxiaopengyouv1-shinnekketsukoha-2p.zip" fileSize="69180" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3428M.png" />
+        <media:content url="http://tracker.tasvideos.org/shinnekketsukoha-tas-2p-fcxiaopengyou.mkv.torrent" fileSize="67593988" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/shinnekketsukoha-tas-2p-fcxiaopengyou.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/shinnekketsukoha-tas-2p-fcxiaopengyou_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/shinnekketsukoha-tas-2p-fcxiaopengyou_512kb/shinnekketsukoha-tas-2p-fcxiaopengyou.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/shinnekketsukoha-tas-2p-fcxiaopengyou_512kb/shinnekketsukoha-tas-2p-fcxiaopengyou_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=AxUFdo5LZME" />
+        <media:community>
+          <media:starRating average="7.325" count="1" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="67593988" url="http://tracker.tasvideos.org/shinnekketsukoha-tas-2p-fcxiaopengyou.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3428M.html</guid>
+      <pubDate>Fri, 16 Jun 2017 14:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3425] Genesis Sonic 3 &amp; Knuckles (World) &quot;Knuckles&quot; by Evil_3D, WST &amp; Marzojr in 22:07.68 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3425M.html</link>
+      <description>&lt;em&gt;Sonic 3 &amp;amp; Knuckles&lt;/em&gt; completed with Knuckles. Tired of always doing ring-attacks and 100% runs, Knuckles has finally decided it is his turn to break the game in an any% TAS. This run uses a disassembly of the game in order to use the most of every trick.
+&lt;p/&gt;&lt;hr/&gt;
+Every duplicate link leads to the camhacked version of the encode.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Aims for in-game time instead of real-time</category>
+      <category>Uses death to save time</category>
+      <category>Takes damage to save time</category>
+      <category>Heavy glitch abuse</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19103</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/gmv/evil_3d%2Cwst%2Cmarzojrv1-knsonic3-knuckles.zip" fileSize="238738" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3425M.png" />
+        <media:content url="http://tracker.tasvideos.org/knsonic3-tas-knuckles-evil_3d,wst,marzojr.mkv.torrent" fileSize="179807794" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-knuckles-evil_3d,wst,marzojr.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-knuckles-evil_3d,wst,marzojr_512kb.mp4.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-knuckles-evil_3d,wst,marzojr_camhack.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-knuckles-evil_3d,wst,marzojr_camhack_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/Knsonic3-tas-knuckles-evil_3dwstmarzojr/knsonic3-tas-knuckles-evil_3d%2cwst%2cmarzojr.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/Knsonic3-tas-knuckles-evil_3dwstmarzojr/knsonic3-tas-knuckles-evil_3d%2cwst%2cmarzojr_512kb.mp4" type="video/mp4" medium="video" />
+        <media:content url="http://archive.org/download/Knsonic3-tas-knuckles-evil_3dwstmarzojr/knsonic3-tas-knuckles-evil_3d%2cwst%2cmarzojr_camhack.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/Knsonic3-tas-knuckles-evil_3dwstmarzojr/knsonic3-tas-knuckles-evil_3d%2cwst%2cmarzojr_camhack_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="8.65" count="1" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="179807794" url="http://tracker.tasvideos.org/knsonic3-tas-knuckles-evil_3d,wst,marzojr.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3425M.html</guid>
+      <pubDate>Tue, 13 Jun 2017 02:32:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3424] SNES Super Metroid (JPN/USA) &quot;game end glitch&quot; by Sniq, Total &amp; Aran Jaeger in 07:09.68 (Published by Spikestuff to Moons)</title>
+      <link>http://tasvideos.org/3424M.html</link>
+      <description>Super Metroid is a platform game and a follow-up to Metroid II. Like the previous games in the series, it is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game.
+&lt;p/&gt;With a new moonwalking technique, this improves the &lt;a title=&quot;[3309] SNES Super Metroid (JPN/USA) &amp;quot;game end glitch&amp;quot; by Sniq, Taco &amp;amp; Total in 07:14.67&quot; href=&quot;//tasvideos.org/3309M.html&quot;&gt;previous speedrun&lt;/a&gt; by &lt;abbr title=&quot;300 Frames @60 FPS&quot;&gt;5.00&lt;/abbr&gt; seconds.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Spikestuff)</author>
+      <category>Best ending</category>
+      <category>Takes damage to save time</category>
+      <category>Major skip glitch</category>
+      <category>Final boss skip glitch</category>
+      <category>Executes arbitrary code</category>
+      <category>Heavy glitch abuse</category>
+      <category>Corrupts memory</category>
+      <category>Genre: Action</category>
+      <category>Genre: Adventure</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19216</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/lsmv/sniq_taco_aranjaeger-supermetroid-geg.zip" fileSize="25180" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3424M.png" />
+        <media:content url="http://tracker.tasvideos.org/supermetroid-tas-geg-sniq_total_aranjaeger.mkv.torrent" fileSize="24962866" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/supermetroid-tas-geg-sniq_total_aranjaeger.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/supermetroid-tas-geg-sniq_total_aranjaeger_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/supermetroid-tas-geg-sniq_total_aranjaeger/supermetroid-tas-geg-sniq_total_aranjaeger.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/supermetroid-tas-geg-sniq_total_aranjaeger/supermetroid-tas-geg-sniq_total_aranjaeger_512kb.mp4" type="video/mp4" medium="video" />
+        <media:player url="http://www.youtube.com/watch?v=JdsmHQQYN8M" />
+        <media:community>
+          <media:starRating average="8.846" count="5" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="24962866" url="http://tracker.tasvideos.org/supermetroid-tas-geg-sniq_total_aranjaeger.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3424M.html</guid>
+      <pubDate>Mon, 12 Jun 2017 10:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3423] GB Disney's DuckTales (JPN) by zoboner &amp; vintse500 in 08:49.62 (Published by feos to Moons)</title>
+      <link>http://tasvideos.org/3423M.html</link>
+      <description>&lt;em&gt;Duck Tales&lt;/em&gt; is a traditional platform game in which the player takes the role of greedy Scrooge McDuck in search of treasures around the globe. He counts on his three nephews and on other Duck Tales characters to help him in his quest through inospit places such as the Amazononic forest, the African Mines, the Himalayas, Transylvania (where he meets Dracula Duck) and even the Moon.
+&lt;p/&gt;Each one of them reserves the old duck lots of adventure, different enemies and hidden rooms.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (feos)</author>
+      <category>Takes damage to save time</category>
+      <category>Uses hardest difficulty</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/19215</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/bk2/zoboner%2Cvintse500-ducktales.zip" fileSize="9516" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3423M.png" />
+        <media:content url="http://tracker.tasvideos.org/ducktales-tas-zoboner,vintse500.mkv.torrent" fileSize="9101899" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/ducktales-tas-zoboner,vintse500.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/ducktales-tas-zoboner,vintse500_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/Ducktales-tas-zobonervintse500/ducktales-tas-zoboner,vintse500.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/Ducktales-tas-zobonervintse500/ducktales-tas-zoboner,vintse500_512kb.mp4" type="video/mp4" medium="video" />
+      </media:group>
+      <enclosure length="9101899" url="http://tracker.tasvideos.org/ducktales-tas-zoboner,vintse500.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3423M.html</guid>
+      <pubDate>Mon, 12 Jun 2017 06:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[3422] Genesis Sonic 3 &amp; Knuckles (World) &quot;Knuckles, 100%&quot; by Evil_3D in 44:57.97 (Published by Fog to Moons)</title>
+      <link>http://tasvideos.org/3422M.html</link>
+      <description>A Sonic video without Sonic! Instead, Knuckles takes the spotlight and collects all the Chaos (and Super) Emeralds.
+&lt;p/&gt;This run improves upon the previous publication from Upthorn by &lt;abbr title=&quot;2,046 Frames @60 FPS&quot;&gt;34.10&lt;/abbr&gt; seconds, thanks to the help of some new glitches and strategies.
+&lt;hr/&gt;
+Each second link or sets of encodes use a camhack, in order to have the camera focus on Knuckles while keeping the sprites in the foreground.
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Fog)</author>
+      <category>Aims for in-game time instead of real-time</category>
+      <category>100% completion</category>
+      <category>Uses death to save time</category>
+      <category>Takes damage to save time</category>
+      <category>Heavy glitch abuse</category>
+      <category>Genre: Platform</category>
+      <comments>http://tasvideos.org/forum/t/18992</comments>
+      <media:group>
+        <media:content url="http://tasvideos.org//movies/gmv/evil_3dv1_knsonic3-knuckles100p.zip" fileSize="485074" type="application/zip" medium="document" />
+        <media:thumbnail url="http://media.tasvideos.org/3422M.png" />
+        <media:content url="http://tracker.tasvideos.org/knsonic3-tas-100p_knuckles-evil_3d.mkv.torrent" fileSize="314580783" type="application/x-bittorrent" medium="video" isDefault="true" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-100p_knuckles-evil_3d.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-100p_knuckles-evil_3d_512kb.mp4.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-100p_knuckles-evil_3d_camhack.mkv.torrent" />
+        <media:peerLink type="application/x-bittorrent" href="http://tracker.tasvideos.org/knsonic3-tas-100p_knuckles-evil_3d_camhack_512kb.mp4.torrent" />
+        <media:content url="http://archive.org/download/knsonic3-tas-100p_knuckles-evil_3d/knsonic3-tas-100p_knuckles-evil_3d.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/knsonic3-tas-100p_knuckles-evil_3d/knsonic3-tas-100p_knuckles-evil_3d_512kb.mp4" type="video/mp4" medium="video" />
+        <media:content url="http://archive.org/download/knsonic3-tas-100p_knuckles-evil_3d/knsonic3-tas-100p_knuckles-evil_3d_camhack.mkv" type="video/x-matroska" medium="video" />
+        <media:content url="http://archive.org/download/knsonic3-tas-100p_knuckles-evil_3d/knsonic3-tas-100p_knuckles-evil_3d_camhack_512kb.mp4" type="video/mp4" medium="video" />
+        <media:community>
+          <media:starRating average="6.3" count="1" min="0" max="10" />
+        </media:community>
+      </media:group>
+      <enclosure length="314580783" url="http://tracker.tasvideos.org/knsonic3-tas-100p_knuckles-evil_3d.mkv.torrent" type="application/x-bittorrent" />
+      <guid>http://tasvideos.org/3422M.html</guid>
+      <pubDate>Mon, 12 Jun 2017 00:58:41 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
