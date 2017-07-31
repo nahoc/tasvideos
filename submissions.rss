@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TASVideos Submissions</title>
+    <link>http://tasvideos.org/Subs-List.html</link>
+    <description>The TASVideos site is a place for movies of various console games being played extraordinarily using an emulator as a tool to get over humanly limits such as "skill" and "reaction".</description>
+    <language>en</language>
+    <copyright>(C) TASVideos and its authors</copyright>
+    <managingEditor>adelikat@tasvideos.org (Andrés Delikat)</managingEditor>
+    <webMaster>nach@tasvideos.org (Nach)</webMaster>
+    <pubDate>Mon, 31 Jul 2017 13:00:18 +0000</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2017 13:00:18 +0000</lastBuildDate>
+    <category>Emulators</category>
+    <category>Console games</category>
+    <category>Game movies</category>
+    <category>Video games</category>
+    <generator>TASVideos RSS Generator</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
+    <image>
+      <title>TASVideos Submissions</title>
+      <link>http://tasvideos.org/Subs-List.html</link>
+      <url>http://tasvideos.org/css/tasvideos_rss.png</url>
+    </image>
+    <atom:link href="http://tasvideos.org/submissions.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#5619: Mitjitsu's Saturn Astal in 20:29.92 (new)</title>
+      <link>http://tasvideos.org/5619S.html</link>
+      <description>Astal is a 2D platformer that is widely viewed as being the best looking 2D game on the Saturn. In this game you control a beast named Astal and must save your sister and the world, but predominantly the latter.
+&lt;p/&gt;&lt;ul&gt;&lt;li&gt; Aims for fastest time
+&lt;/li&gt;&lt;li&gt; One person controls 2 players
+&lt;/li&gt;&lt;li&gt; Takes damage to save time
+&lt;/li&gt;&lt;li&gt; Manipulates luck
+&lt;/li&gt;&lt;li&gt; Abuses programming errors
+&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;It took a couple of weeks of research. Initially I played the game on the actual system; then watched speedrun videos of it and then asked the current world record holder Chaos42666 for advice. Most of the difficulty at the start came from understanding how to use the bird and wondering if it could save any meaningful amount of time outwith a few boss battles. Evidently I completely underestimated it's usefulness, as it did the bulk of the work throughout the game.
+&lt;p/&gt;Normally the game is one player and the player can use various bird specials by filling up karma meter, and refilling it by destroying enemies. However, in two player mode you don't have access to it, which is slower at parts of the game. At the start of the level the game starts in one player mode and player two must press any button to assume control. If the bird dies...
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Mitjitsu)</author>
+      <comments>http://tasvideos.org/forum/t/19414</comments>
+      <enclosure length="38781" url="http://tasvideos.org//submissions/5619.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5619S.html</guid>
+      <pubDate>Sun, 30 Jul 2017 22:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5618: Ready Steady Yeti's GBA The Morning Adventure in 08:14.26 (new)</title>
+      <link>http://tasvideos.org/5618S.html</link>
+      <description>&lt;div&gt;
+&lt;iframe id=&quot;a6519d49_0_0_1020699755&quot; type=&quot;text/html&quot; style=&quot;width:480px;height:320px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/avj4tANE7so?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=avj4tANE7so&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;A temporary, private encode of the TAS that will be removed from YouTube after it is encoded officially by TASVideos. It's a crap encode, I know, so I recommend you also watch this on emulator to see it better.
+&lt;h3&gt;&lt;a id=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+After working on this project a long time in January, and then taking a very, very long break, then getting back to the project literally today, working on it super hard all day, and finally finishing it up, I proudly present to you my TAS of &amp;quot;The Morning Adventure&amp;quot; for the Game Boy Advance. Though the game is, admittedly, not great...no, that's an overstatement. It's horrible. Though the game is horrible, especially for casual play, not to mention the never-ending level music, I found that the game really has a lot of interesting run strats and glitches. I usually deal with games that are bad or at least perceived as bad by the general public anyway, but I just found this particular game to actually have some potential for entertainment to viewers. Plus, the game is very short, which is a big plus.
+&lt;p/&gt;(If you think YOU'RE sick of the same song playing over and over horribly throughout 90% of the run, just t...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (Ready Steady Yeti)</author>
+      <comments>http://tasvideos.org/forum/t/19411</comments>
+      <enclosure length="14772" url="http://tasvideos.org//submissions/5618.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5618S.html</guid>
+      <pubDate>Fri, 28 Jul 2017 10:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5617: HappyLee's NES Super Mario Bros. &quot;PAL&quot;  in 04:55.16 (judging underway)</title>
+      <link>http://tasvideos.org/5617S.html</link>
+      <description>This run is definitely not with the intention of obsoleting the published SMB any% TAS! This movie aims to present what the fastest and the best SMB PAL TAS would look like. It improves &lt;a title=&quot;#2753: MUGG's NES Super Mario Bros. &amp;quot;PAL&amp;quot;  in 04:56.48&quot; href=&quot;//tasvideos.org/2753S.html&quot;&gt;MUGG's submission&lt;/a&gt; for 66 frames, and &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i37612ABA_1&quot; href=&quot;https://www.youtube.com/watch?v=onFL7_lGG2E&quot;&gt;tubby's TAS&lt;/a&gt; for 46 frames.
+&lt;p/&gt;&lt;div&gt;
+&lt;iframe id=&quot;b8193221_0_0_838321648&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/1Dt-yiZ_QYg?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=1Dt-yiZ_QYg&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i5DD6222C_1&quot; href=&quot;https://mega.nz/#!xgkQxIzQ!fqndzFDf5VIhDMBo0b2yOkYv9RuuRl5t--m7mZrzNVg&quot;&gt;Download 1024x960 HD encode (MKV, 8.95 MB)&lt;/a&gt;
+&lt;p/&gt;The Europe version of SMB is an official game run in PAL mode. The physics are almost identical, but the speed values are set differently, causing more potential glitches. TASes on this version are only faster due to a different version of flagpole glitch, which allows Mario to skip the castles without the help of other enemies or entering the ground.
+&lt;h3&gt;&lt;a id=&quot;NewTrickFallingIntoTheGround&quot;&gt;&lt;/a&gt;New Trick: Falling into the Ground&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+It's probably no secret that Mario can sometimes fall into the ground after stomping on an enemy in SMB Europe version, but to do this without the help of anything but a lift is something new. The lift is still required for manipulating Y position before jumping. This trick is used in 1-2, saving 18 frames (a frame rule).
+&lt;p/&gt;[&lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i960E8DCA_1&quot; href=&quot;http://i65.tinypic&quot;&gt;http://i65.tinypic&lt;/a&gt;...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (HappyLee)</author>
+      <comments>http://tasvideos.org/forum/t/19409</comments>
+      <enclosure length="3420" url="http://tasvideos.org//submissions/5617.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5617S.html</guid>
+      <pubDate>Wed, 26 Jul 2017 18:16:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5616: Michinaga's NES Kiteretsu Daihyakka &quot;best ending&quot;  in 10:17.88 (new)</title>
+      <link>http://tasvideos.org/5616S.html</link>
+      <description>Kiteretsu Daihyakka is an action game of Famicom based on manga/anime of Fujiko Fujio, released only in Japan.
+&lt;p/&gt;&lt;pre&gt;  &lt;div&gt;
+&lt;iframe id=&quot;2c4dda01_0_0_934359130&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/BvJgJL0cXTI?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=BvJgJL0cXTI&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;/pre&gt;&lt;h3&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulator used: FCEUX 2.2.3
+&lt;/li&gt;&lt;li&gt; Aims for fastest time
+&lt;/li&gt;&lt;li&gt; Heavy glitch abuse
+&lt;/li&gt;&lt;li&gt; Takes damage to save time
+&lt;/li&gt;&lt;li&gt; Manipulates luck
+&lt;/li&gt;&lt;li&gt; Genre: Platform
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;Comments&quot;&gt;&lt;/a&gt;Comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+I hardly understood English so I wrote this English sentence using a translation site. I will add the original sentence after the English sentence.
+This game is famous for its oddity of appearance and the difficulty of operation accuracy of ally, but it is a very interesting thing as a game. I love this game, but since I did not have videos of this game on TASVideos, I made it myself.
+&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;AboutTheGame&quot;&gt;&lt;/a&gt;About the Game&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+Players will control Kiteretsu. He is a boy who is good at inventing.
+Kiteretsu has made a device that can get into a dream. However, the device went uncontrollable and Kiteretsu and his friends were confined in the dream world. Kiteretsu goes to help a friend in a dream world.
+&lt;p/&gt;This is a typical platform game, but as a special operation you can walk the ceiling by inverting the gravity of the operating character.
+The goal of this game is to defe...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (Michinaga)</author>
+      <comments>http://tasvideos.org/forum/t/19408</comments>
+      <enclosure length="4776" url="http://tasvideos.org//submissions/5616.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5616S.html</guid>
+      <pubDate>Tue, 25 Jul 2017 19:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5615: genzie's NES DAIVA Story 6: Nirsartia no Gyokuza in 36:53.04 (new)</title>
+      <link>http://tasvideos.org/5615S.html</link>
+      <description>&lt;h3&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Speedrun
+&lt;/li&gt;&lt;li&gt; True Ending
+&lt;/li&gt;&lt;li&gt; No password
+&lt;/li&gt;&lt;li&gt; No password failed glitch
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;Comments&quot;&gt;&lt;/a&gt;Comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+Daiva is 'Active Simulation War' released on 7 platforms.
+&lt;p/&gt;'Active Simulation War' is Simulation + Fleet Battle + Action.
+But NES's Simulation part is largely simplified.
+&lt;p/&gt;Travel over the planets and release from the Empire by Driving Armor.
+&lt;h4&gt;&lt;a id=&quot;TrueEnd&quot;&gt;&lt;/a&gt;True end&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ol&gt;&lt;li&gt; Start game in Level 4.
+&lt;/li&gt;&lt;li&gt; Mine the energy material 'Gamma3' (Wait 1 min after Planet 1 conqured)
+&lt;/li&gt;&lt;li&gt; Take over 'New OM Cannon' (Release all planets after getting Gamma3)
+&lt;/li&gt;&lt;li&gt; Search 'New Vritra' and destroy it by above two items. Then last planet 'Nirsartia' appears.
+&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;MovingFleet&quot;&gt;&lt;/a&gt;Moving fleet&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Fleet speed is variable in 1-5 dot/frame.
+&lt;p/&gt;The diagonal moving is 1.4 times faster than horz/vert.
+&lt;p/&gt;Basically, fleet moves by spd5, at entering the planet, down speed to 2.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;OrderTravelingPlanet&quot;&gt;&lt;/a&gt;Order traveling planet&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+It is traveling salesman problem. But 14 (planet total) is not very large. I could caliculate the shortest route.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;FleetBattle&quot;&gt;&lt;/a&gt;Fleet Battle&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+It takes a lot of time, so I avoid it.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;PlanetBattle&quot;&gt;&lt;/a&gt;Planet Battle&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Auto scrolled. It's like STG.
+&lt;p/&gt;Until the scroll ends, planet battle doesn't close even though boss is destroyed.
+&lt;p/&gt;Lag frame is never generate...
+&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (genzie)</author>
+      <comments>http://tasvideos.org/forum/t/19406</comments>
+      <enclosure length="33180" url="http://tasvideos.org//submissions/5615.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5615S.html</guid>
+      <pubDate>Mon, 24 Jul 2017 15:27:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5614: link_7777's NES Super Glove Ball in 02:08.24 (decision: accepted)</title>
+      <link>http://tasvideos.org/5614S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;SuperGloveBall&quot;&gt;&lt;/a&gt;Super Glove Ball&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+You had just started repair work on the Allied Space Agency satellite when you were caught in a dimensional rip in space (according to your shuttle commander's log). Your only hope is to use your jet-powered robo-repair glove to try to find a way out of the drifting maze.
+&lt;p/&gt;Super Glove Ball is probably best described as a 3D Arkanoid with a maze layout. The game is one of two games specifically designed for the Power Glove (the other being NES Bad Street Brawler), though you can play with the controller instead (and it is much easier to do so).
+&lt;p/&gt;&lt;div&gt;
+&lt;iframe id=&quot;82518e9_0_0_1498733963&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/kkA8s-vHsj4?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=kkA8s-vHsj4&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;EmulatorUsed&quot;&gt;&lt;/a&gt;Emulator Used&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+Bizhawk 1.12.1
+&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game Objectives&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Beat the game
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;Mechanics&quot;&gt;&lt;/a&gt;Mechanics&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Left/Right Move left and right.
+&lt;/li&gt;&lt;li&gt; Up/Down Move up and down.
+&lt;/li&gt;&lt;li&gt; &amp;quot;A&amp;quot; Hold to move in (Z direction) release to move out.
+&lt;/li&gt;&lt;li&gt; &amp;quot;B&amp;quot; Grab the ball (if near the ball), or make a fist. Note that the hit detection is different while making a fist.
+&lt;/li&gt;&lt;li&gt; &amp;quot;B&amp;quot; Hold to hold on to the ball, release to release the ball. Note that when you release there is a cool down on the next grab. Also there is a time out on holding the ball, it will release automatically if you try to hold it too long.
+&lt;/li&gt;&lt;li&gt; Select Fire robo-bu...
+&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (link_7777)</author>
+      <comments>http://tasvideos.org/forum/t/19405</comments>
+      <enclosure length="6517" url="http://tasvideos.org//submissions/5614.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5614S.html</guid>
+      <pubDate>Mon, 24 Jul 2017 07:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5613: Mitjitsu's Saturn Clockwork Knight  in 17:11.22 (decision: rejected)</title>
+      <link>http://tasvideos.org/5613S.html</link>
+      <description>After a seven year hiatus from TASing I decided to get back into TASing. Now that my favourite console has a stable enough emulator core to make TASing possible. I choose this game because its a short and simple game. That I knew could be finished within a day or two, and so I could familiarize myself with Bizhawk. Although the fast movement and floaty jumping mechanics did make parts of the game problematic. The part I most feared doing was the penultimate boss battle. However, I was able to make the boss cooperate during the second phase. Allowing me to beat it using just one throw.
+&lt;p/&gt;&lt;ul&gt;&lt;li&gt; Aims for fastest time
+&lt;/li&gt;&lt;li&gt; Plays on hardest difficulty
+&lt;/li&gt;&lt;li&gt; Abuses Programming errors
+&lt;/li&gt;&lt;li&gt; Manipulates luck
+&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;&lt;div&gt;
+&lt;iframe id=&quot;c2df0d2d_0_0_200990404&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/L5CF8nuwe9o?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=L5CF8nuwe9o&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;&lt;hr/&gt;
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Mothrayas.html&quot;&gt;Mothrayas&lt;/a&gt;: Judging.
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Mothrayas.html&quot;&gt;Mothrayas&lt;/a&gt;: This movie was made with an USA ROM running on a JPN BIOS. It doesn't sync on a proper combination. While this is sort of understandable given some issues with some online Japanese BIOSes being labeled as being USA BIOSes, as well as the fact that current BizHawk versions happily take a JPN BIOS for running USA games, it doesn't change the fact that this is an improper combination of game and BIOS versio...
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Mitjitsu)</author>
+      <comments>http://tasvideos.org/forum/t/19402</comments>
+      <enclosure length="29034" url="http://tasvideos.org//submissions/5613.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5613S.html</guid>
+      <pubDate>Sun, 23 Jul 2017 12:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5612: ruadath's SG1000 The Black Onyx in 00:41.17 (new)</title>
+      <link>http://tasvideos.org/5612S.html</link>
+      <description>Dungeon crawler hype! I'm not really sure what this game is about just saw a TAS on niconico and decided to improve it.
+&lt;p/&gt;&lt;div&gt;
+&lt;iframe id=&quot;6b6a752a_0_0_1120303143&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/siBKyrPm-yw?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=siBKyrPm-yw&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (ruadath)</author>
+      <comments>http://tasvideos.org/forum/t/19400</comments>
+      <enclosure length="2250" url="http://tasvideos.org//submissions/5612.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5612S.html</guid>
+      <pubDate>Sat, 22 Jul 2017 23:45:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5611: Mittenz's GBA Drill Dozer in 1:50:02.03 (new)</title>
+      <link>http://tasvideos.org/5611S.html</link>
+      <description>Author’s Encode
+&lt;div&gt;
+&lt;iframe id=&quot;72368c3c_0_0_1203294528&quot; type=&quot;text/html&quot; style=&quot;width:480px;height:320px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/jT92YRQLIg8?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=jT92YRQLIg8&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;Drill Dozer (or Screw Breaker Gōshin Drillero as it's known in Japan) is a 2D adventure platformer developed by Gamefreak and released for the Gameboy Advance in 2005 and released to the Wii U virtual console in 2015. You play as Jill and her drill dozer. Jill’s dad is the leader of a gang of thieves. He was recently beaten up by a rival gang and had the red diamond Jill’s deceased mother left Jill stolen. With her dad out of commision it’s up to Jill to retrieve the diamond. Drill Dozer is one of 2 GBA games to ever be released with a rumble feature built into the cartridge (the other game being WarioWare Twisted).
+&lt;h2&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game Objectives&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulation used: Bizhawk 2.1.0 (x64) using the mGBA core
+&lt;/li&gt;&lt;li&gt; Speed
+&lt;/li&gt;&lt;li&gt; Luck manipulation
+&lt;/li&gt;&lt;li&gt; TASing Tools: Scripthawk
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;Timing&quot;&gt;&lt;/a&gt;Timing&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+1:50:05.075 is the final time for this Tas. This is from power on to the final button press prior to the credits starting. This is ~4:28 faster than &lt;a title=&quot;#2069: turtle's GBA Screw Breaker - Goushin Dorirurero in 1:54:27.92&quot; href=&quot;//tasvideos.org/2069S.html&quot;&gt;turtle’s unpublished TAS from 2008&lt;/a&gt;.
+&lt;p/&gt;RTA timing begins at selecting your game file and ends at the final punch on Croog. The RTA time for this TAS is 1:46:42.717. For reference this is...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (Mittenz)</author>
+      <comments>http://tasvideos.org/forum/t/19399</comments>
+      <enclosure length="160154" url="http://tasvideos.org//submissions/5611.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5611S.html</guid>
+      <pubDate>Sat, 22 Jul 2017 20:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5608: DrD2k9's C64 Jungle Hunt in 02:28.35 (new)</title>
+      <link>http://tasvideos.org/5608S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;JungleHuntForCommodore64&quot;&gt;&lt;/a&gt;Jungle Hunt for Commodore 64&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;div&gt;
+&lt;iframe id=&quot;bfc6af60_0_0_1378091644&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/GD8QPF-E1C4?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=GD8QPF-E1C4&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;This submission uses the same cartridge image as the &lt;a title=&quot;[3439] C64 Jungle Hunt (unknown) by DrD2k9 in 02:56.78&quot; href=&quot;//tasvideos.org/3439M.html&quot;&gt;currently published run&lt;/a&gt; which was completed using PAL settings in BizHawk.
+&lt;p/&gt;This submission uses BizHawk's NTSC settings.
+&lt;p/&gt;I could not determine which version this cartridge dump is, but there are no obvious graphical or sound glitches with either setting. It may be a universal release.
+&lt;p/&gt;As such, a run using NTSC settings results in a faster video by about 29.3 seconds.
+&lt;p/&gt;This submission is thus the faster of the two runs. I feel it should replace the current publication.
+&lt;h3&gt;&lt;a id=&quot;NoticeableDifferencesBetweenTheRuns&quot;&gt;&lt;/a&gt;Noticeable differences between the runs&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; RNG of the monkey in the first stage, the gators in the second stage, and the boulders in the third stage
+&lt;ul&gt;&lt;li&gt; It's possible to manipulate the monkey to not show up by delaying a jump one to two ropes before the monkey would otherwise appear.  This can (but not guaranteed to) make getting through vines faster.  This tactic is only needed once in this run.  The two monkeys that do arise are easily avoided with normal jumps.
+&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; I play around a bit in the third stage (jumping erratically around while waiting on the boulders).
+&lt;ul&gt;&lt;li&gt; On the last ...
+&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (DrD2k9)</author>
+      <comments>http://tasvideos.org/forum/t/19392</comments>
+      <enclosure length="6149" url="http://tasvideos.org//submissions/5608.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5608S.html</guid>
+      <pubDate>Fri, 21 Jul 2017 16:46:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5606: DrD2k9's C64 Congo Bongo in 00:29.45 (judging underway)</title>
+      <link>http://tasvideos.org/5606S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;CongoBongoForCommodore64&quot;&gt;&lt;/a&gt;Congo Bongo for Commodore 64&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;div&gt;
+&lt;iframe id=&quot;a615ebe4_0_0_1657247112&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/OajgqsMZ4bY?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=OajgqsMZ4bY&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;This submission is a run using identical path routing to the &lt;a title=&quot;[3452] C64 Congo Bongo (unknown) by DrD2k9 in 00:32.58&quot; href=&quot;//tasvideos.org/3452M.html&quot;&gt;currently published run&lt;/a&gt; which was completed using PAL settings in BizHawk.
+&lt;p/&gt;This submission uses NTSC settings.  The only noticeable difference is slightly faster game and music tempo with the NTSC settings.
+&lt;p/&gt;I could not determine which version this cartridge dump is, but there are no obvious graphical or sound glitches with either setting.  It may be a universal release.
+&lt;p/&gt;As such, with only minor tweaking of input, the path routing could be replicated under NTSC settings resulting in a faster game by about 3.2 seconds.
+&lt;p/&gt;It's not by much, but it is the faster of the two runs.  I feel it should replace the current publication.
+&lt;p/&gt;&lt;hr/&gt;
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/GoddessMaria.html&quot;&gt;GoddessMaria&lt;/a&gt;: Judging...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (DrD2k9)</author>
+      <comments>http://tasvideos.org/forum/t/19387</comments>
+      <enclosure length="2579" url="http://tasvideos.org//submissions/5606.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5606S.html</guid>
+      <pubDate>Thu, 20 Jul 2017 23:09:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5605: Nye's Saturn Tryrush Deppy in 21:41.9 (decision: accepted)</title>
+      <link>http://tasvideos.org/5605S.html</link>
+      <description>&lt;div&gt;
+&lt;iframe id=&quot;22d2d0bb_0_0_1814040285&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/O_eyp0tQfIU?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=O_eyp0tQfIU&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;Tryrush Deppy is a Japan exclusive platformer released in 1996 for the Sega Saturn. You play as a taxi named Deppy whose racing in the Tryrush Rally which starts from the east coast of the United States all the way to the west coast. The race is split into 5 stages which consist of two platforming sections and then a boss fight at the end of the stage.
+&lt;p/&gt;Emulater used: BizHawk 2.0
+&lt;p/&gt;BIOS used: Bios v1.01 (J)
+&lt;p/&gt;&lt;b&gt;Game Objectives&lt;/b&gt;
+&lt;p/&gt;&lt;ul&gt;&lt;li&gt; Aims for fastest possible time
+&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;&lt;ul&gt;&lt;li&gt; Takes no damage
+&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;&lt;b&gt;Comments&lt;/b&gt;
+&lt;p/&gt;I started this TAS with the old Yabause core and experienced several sync issues, but thankfully with the new update there were no issues.
+&lt;p/&gt;Deppy has two movement options, A for jump and X for dash. By dashing it slowly drains the fuel meter, which also happens to be the health bar too. Health management plays an important part since Deppy is constantly dashing throughout the level, therefore gas cans must be collected in order to refuel the meter.
+&lt;p/&gt;Most levels take a path where gas cans can be collected without slowing down too much or having to scale up or down the level a bunch. Throughout the levels there are batteries which provide inv...
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (Nye)</author>
+      <comments>http://tasvideos.org/forum/t/19385</comments>
+      <enclosure length="25945" url="http://tasvideos.org//submissions/5605.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5605S.html</guid>
+      <pubDate>Thu, 20 Jul 2017 13:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5604: MESHUGGAH &amp; Ryuto's VBoy Teleroboxer in 05:38.09 (publication underway)</title>
+      <link>http://tasvideos.org/5604S.html</link>
+      <description>Temp encode by Spikestuff
+&lt;div&gt;
+&lt;iframe id=&quot;22f97304_0_0_1114106245&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/XOS1LR76VSU?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=XOS1LR76VSU&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Aims for shortest input
+&lt;/li&gt;&lt;li&gt; Takes no damage
+&lt;/li&gt;&lt;li&gt; Manipulates enemies
+&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;This movie is based on Ryuto's TAS that I created from scratch and uses equivalent (apart from starting side of punches) strategies from him.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;Improvements&quot;&gt;&lt;/a&gt;Improvements&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Many frames around skipping cutscenes, handling menus
+&lt;/li&gt;&lt;li&gt; Few frames on unneccessary delays (when using punch cancelling)
+&lt;/li&gt;&lt;li&gt; 4th enemy finishing saved remaining frames
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;Enemies&quot;&gt;&lt;/a&gt;Enemies&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; 1st - rapid alternate punches and charged uppercut for finishing
+&lt;/li&gt;&lt;li&gt; 2nd - rapid alternate punches
+&lt;/li&gt;&lt;li&gt; 3rd - rapid alternate punches until charged uppercuts with 1 unavoidable simple punching (to be fastest)
+&lt;/li&gt;&lt;li&gt; 4th - jab and cancel, rapid alternate punches and crotch punch for finishing
+&lt;/li&gt;&lt;li&gt; 5th - jab and cancel, rapid alternate punches with punch cancelling
+&lt;/li&gt;&lt;li&gt; 6th - jab and cancel, rapid alternate punches and crotch punch for finishing
+&lt;/li&gt;&lt;li&gt; 7th - 1 frame delay, rapid alternate punches with punch cancelling (crotch punch finish would be same time)
+&lt;/li&gt;&lt;li&gt; 8th - jab and cancel, rapid alternate punches
+&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;Health is at 0x4780. You can overkill, but it won't make them disappear faster.
+&lt;p/&gt;&lt;hr/&gt;
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Mothrayas.html&quot;&gt;Mothrayas&lt;/a&gt;: Ju...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (MESHUGGAH &amp; Ryuto)</author>
+      <comments>http://tasvideos.org/forum/t/19381</comments>
+      <enclosure length="3559" url="http://tasvideos.org//submissions/5604.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5604S.html</guid>
+      <pubDate>Tue, 18 Jul 2017 21:31:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5600: £e Nécroyeur's Arcade Karate Champ: Player Vs Player in 20:37.82 (publication underway)</title>
+      <link>http://tasvideos.org/5600S.html</link>
+      <description>&lt;div&gt;
+&lt;iframe id=&quot;57be858a_0_0_1695213459&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/V4dqWcfK0Nc?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=V4dqWcfK0Nc&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;&lt;br/&gt;
+&lt;p/&gt;&lt;em&gt;Karate Champ: Player Vs Player&lt;/em&gt; is an arcade game developed by Technōs Japan and published by Data East in 1984.  This is the groundbreaking sequel to &lt;em&gt;Karate Champ&lt;/em&gt;.  As &lt;em&gt;Karate Champ&lt;/em&gt; was the defining game of the one-on-one fighting genre, &lt;em&gt;Karate Champ: Player Vs Player&lt;/em&gt; was surely the defining game of the one-on-one player vs. player fighting genre, which would become the preeminent genre for competitive video gaming in the early to mid-1990s.  Even now, players continue to compete in older games of this genre, and new games continue to be developed.  &lt;em&gt;Karate Champ: Player Vs Player&lt;/em&gt; was released less than two months after the release of &lt;em&gt;Karate Champ&lt;/em&gt;, but gameplay aside, the game received a fairly thorough overhaul.  The game features a new story, new and varied backgrounds, new and enhanced Bonus Intervals, much improved sound samples and opponent AI, and even an ending!
+&lt;p/&gt;&lt;br/&gt;
+&lt;h3&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game Objectives&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Aims for fastest game completion
+&lt;/li&gt;&lt;li&gt; Aims for maximum score without sacrificing Frames
+&lt;/li&gt;&lt;li&gt; Abuses programming errors
+&lt;/li&gt;&lt;li&gt; Entertains without sacrificing Frames
+&lt;/li&gt;&lt;li&gt; If do right, no can defense
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;DipSwitchSettings&quot;&gt;&lt;/a&gt;DIP Switch Settings&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; ...
+&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (£e Nécroyeur)</author>
+      <comments>http://tasvideos.org/forum/t/19368</comments>
+      <enclosure length="419715" url="http://tasvideos.org//submissions/5600.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5600S.html</guid>
+      <pubDate>Fri, 14 Jul 2017 08:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5599: DrD2k9's C64 Galaxian in 00:26.99 (decision: cancelled)</title>
+      <link>http://tasvideos.org/5599S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;GalaxianForCommodore64&quot;&gt;&lt;/a&gt;Galaxian for Commodore 64&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;div&gt;
+&lt;iframe id=&quot;48853364_0_0_1240619511&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/AfgPVnjmaGU?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=AfgPVnjmaGU&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+Alien invaders are attacking your planet!  Protect it at all costs!
+&lt;h3&gt;&lt;a id=&quot;GameNotes&quot;&gt;&lt;/a&gt;Game Notes&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Objective: Shoot the aliens before they shoot you (or crash into you).
+&lt;/li&gt;&lt;li&gt; All stages are identical in configuration with no new content introduced after even one stage.
+&lt;ul&gt;&lt;li&gt; Difficulty increases by increasing how many galaxians attack at once and how quickly from the start of a stage (immediately in this video).
+&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;TasNotes&quot;&gt;&lt;/a&gt;TAS Notes&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; This is a cartridge version of the game
+&lt;/li&gt;&lt;li&gt; As no new content is introduced after one stage, only one stage is necessary for a TAS.
+&lt;/li&gt;&lt;li&gt; Aims for fastest completion of the highest selectable starting level. (This is equivalent to choosing to the most difficult setting for a one stage run.)
+&lt;ul&gt;&lt;li&gt; Ironically, the increased difficulty causes more enemies to attack.  This makes killing them faster than on 'easier' stages as the wait time between shots is shortened.
+&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Uses death to save frames.
+&lt;ul&gt;&lt;li&gt; Dying at the end of the video allows for completion of the TAS input earlier than avoiding the alien's attack (requires an additional 8 frames of input).
+&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;&lt;hr/&gt;
+drd2k9:Canceling--I need to check PAL/NTSC settings.
+&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (DrD2k9)</author>
+      <comments>http://tasvideos.org/forum/t/19367</comments>
+      <enclosure length="2724" url="http://tasvideos.org//submissions/5599.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5599S.html</guid>
+      <pubDate>Thu, 13 Jul 2017 21:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5598: DrD2k9's C64 Frogger &quot;Parker Brothers Port&quot;  in 04:12.01 (judging underway)</title>
+      <link>http://tasvideos.org/5598S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;FroggerForCommodore64&quot;&gt;&lt;/a&gt;Frogger for Commodore 64&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;div&gt;
+&lt;iframe id=&quot;6ece4d0_0_0_828953614&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/_yM4IhUVxrw?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=_yM4IhUVxrw&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;Safely hop frogs from the sidewalk to their homes on the other side of the street and river.  Pretty simple premise, complex challenge and quite fun.
+&lt;h3&gt;&lt;a id=&quot;TasNotes&quot;&gt;&lt;/a&gt;TAS Notes:&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; From what I can find, there are 2 official ports of Frogger for the Commodore 64.  This run uses the Parker Brothers port.
+&lt;/li&gt;&lt;li&gt; This is a cartridge version of the game.
+&lt;/li&gt;&lt;li&gt; There an infinite number of stages.  Difficulty increases through the first 7 stages.
+&lt;ul&gt;&lt;li&gt; This TAS completes these 7 stages only as nothing new is introduced beyond that point.
+&lt;/li&gt;&lt;li&gt; Stages 6 &amp;amp; 7 are the same configuration of logs/turtles/cars as stages 1 &amp;amp; 2 respectively but with the snake added.
+&lt;/li&gt;&lt;li&gt; Beginning with stage 8 the levels are repeats of previous stages.
+&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;ImprovementPossibilities&quot;&gt;&lt;/a&gt;Improvement Possibilities&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+I believe I have found the most rapid order for filling the frogs' homes in each level.  However a better overall time may potentially result from the following:
+&lt;ul&gt;&lt;li&gt; Someone may find an filling-order that I did not attempt.
+&lt;/li&gt;&lt;li&gt; The cars' position at the beginning of a stage is dependent on the length of the previous stage.  If a different order of filling homes resulted in a more beneficial starting positi...
+&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (DrD2k9)</author>
+      <comments>http://tasvideos.org/forum/t/19366</comments>
+      <enclosure length="10049" url="http://tasvideos.org//submissions/5598.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5598S.html</guid>
+      <pubDate>Thu, 13 Jul 2017 19:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5596: DrD2k9's C64 Donkey Kong in 02:55.74 (decision: cancelled)</title>
+      <link>http://tasvideos.org/5596S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;DonkeyKongForCommodore64&quot;&gt;&lt;/a&gt;Donkey Kong for Commodore 64&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;div&gt;
+&lt;iframe id=&quot;aa976ce9_0_0_1350614404&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/hr29YeyAC1w?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=hr29YeyAC1w&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+The debut of Mario.
+&lt;p/&gt;Game premise: Donkey Kong has captured Mario's girlfriend and has taken her to a constructions site....thankfully Mario has not yet transitioned occupations from carpenter to plumber.  As usual Mario must save the girl.
+&lt;p/&gt;The C64 port has levels made up of combinations of 4 varying sub-stages:
+&lt;ul&gt;&lt;li&gt; Broken Girders
+&lt;/li&gt;&lt;li&gt; Elevators
+&lt;/li&gt;&lt;li&gt; Riveted Girders
+&lt;/li&gt;&lt;li&gt; Conveyors
+&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;a id=&quot;TasNotes&quot;&gt;&lt;/a&gt;TAS Notes:&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Aims for fastest time to show and finish all four sub-stages.  This requires selecting the 2nd difficulty setting and doing the Broken Girder stage twice.
+&lt;/li&gt;&lt;li&gt; For a VERY minor time trade-off (usually 1-2 frames), I typically make Mario jump backwards...just because I think it's amusing.
+&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;That's really all I have to say.
+&lt;p/&gt;&lt;hr/&gt;
+drd2k9: Cancelling due to concerns of completion and PAL settings.
+&lt;p/&gt;&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (DrD2k9)</author>
+      <comments>http://tasvideos.org/forum/t/19362</comments>
+      <enclosure length="6166" url="http://tasvideos.org//submissions/5596.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5596S.html</guid>
+      <pubDate>Tue, 11 Jul 2017 20:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5595: DrD2k9's C64 Double Dragon &quot;OCEAN Port&quot;  in 12:53.11 (judging underway)</title>
+      <link>http://tasvideos.org/5595S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;DoubleDragonForCommodore64&quot;&gt;&lt;/a&gt;Double Dragon for Commodore 64&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+Billy and Jimmy must fight the Black Warriors gang in ord...oh forget it. I think most of us probably know this game's premise.
+&lt;p/&gt;&lt;b&gt;This submission is a redo after a better strat for fighting Abobo was was pointed out.  In re-working the original submission using that strat, I discovered a glitch that allows you to control the horizontal flight of Abobo's body after he gets hit. Specifically the control is available from the 13th frame to the 26th frame after the button press for hitting him.  This glitch strat allowed me to position him in ideal locations for the next hit with minimal wait time between hits.   Unfortunately this glitch doesn't work for other enemies.  I then re-re-worked the run using the glitch strat to save even more time.&lt;/b&gt;
+&lt;p/&gt;The following is from the original submission.
+&lt;em&gt;
+&lt;/em&gt;&lt;h3&gt;&lt;a id=&quot;PortInfo&quot;&gt;&lt;/a&gt;Port Info.&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;&lt;em&gt;
+There are two licensed ports of Double Dragon on the C64; one published by Ocean and the other by Melbourne House.  This run is the Ocean version.  Both ports are generally considered mediocre to poor quality ports.  From what I can find online, the Ocean ports seems to be the one with the slightly more positive reviews.  These generally ...
+&lt;hr/&gt;
+&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;&lt;em&gt;&lt;/em&gt;</description>
+      <author>nobody@tasvideos.org (DrD2k9)</author>
+      <comments>http://tasvideos.org/forum/t/19360</comments>
+      <enclosure length="23548" url="http://tasvideos.org//submissions/5595.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5595S.html</guid>
+      <pubDate>Tue, 11 Jul 2017 03:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5593: Jhynjhiruu's Windows Normal Super Mario Bros. &quot;&quot;Any/100%&quot;&quot;  in 02:18.78 (decision: rejected)</title>
+      <link>http://tasvideos.org/5593S.html</link>
+      <description>WARNING - POSSIBLY SUBOPTIMAL
+&lt;p/&gt;In this game, Mario decides that, before he begins his adventure, he will take drugs, for whatever reason. This inevitably leads to him being attacked, chased and stuff.
+&lt;pre&gt;
+&lt;/pre&gt;&lt;h3&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulator used: Hourglass r81
+&lt;/li&gt;&lt;li&gt; Beat the game
+&lt;/li&gt;&lt;li&gt; Abuses... umm... damage?
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;Comments&quot;&gt;&lt;/a&gt;Comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+I basically just submitted this movie as a PoC, to demonstrate that this game can be TASed, and hopefully is mildly entertaining. However, it does beat the current RTA WR, and demonstrates it is possible to achieve a sub-2:06.
+(With RTA timing, which subtracts exactly 3 seconds from the start of the run.)
+&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;SectionBySectionComments&quot;&gt;&lt;/a&gt;Section by section comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;h4&gt;&lt;a id=&quot;UpUntilMarioGettingDrugged&quot;&gt;&lt;/a&gt;Up until Mario getting drugged&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+A couple of precise timings mean this section is done quickly. Nothing special here.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;EnteringTheCar&quot;&gt;&lt;/a&gt;Entering the car&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Literally the same as RTA, just I enter the car on the first possible frame.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;HappyFacesFight&quot;&gt;&lt;/a&gt;Happy Faces Fight&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+This section is even more of an autoscroller than the rest of the game, so there isn't a lot to explain.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;PostHappyFacesFight&quot;&gt;&lt;/a&gt;Post-Happy Faces Fight&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+I hate that staircase so, so much.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;SubZeroFight&quot;&gt;&lt;/a&gt;Sub-Zero Fight&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Using a trick recently discovered by L4cherlich, I save 2s (and half a cycle) by del...
+&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (Jhynjhiruu)</author>
+      <comments>http://tasvideos.org/forum/t/19353</comments>
+      <enclosure length="1536" url="http://tasvideos.org//submissions/5593.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5593S.html</guid>
+      <pubDate>Sat, 08 Jul 2017 23:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5592: DrD2k9's C64 Diamond Mine &quot;2 player, 100%&quot;  in 17:51.69 (judging underway)</title>
+      <link>http://tasvideos.org/5592S.html</link>
+      <description>&lt;h2&gt;&lt;a id=&quot;DiamondMineForCommodore64&quot;&gt;&lt;/a&gt;Diamond Mine - for Commodore 64&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+Diamond mine is a game about mining diamonds.  &lt;em&gt;Someone please call Captain Obvious.&lt;/em&gt;
+&lt;p/&gt;&lt;img alt=&quot;&quot; title=&quot;&quot; class=&quot;embed&quot; src=&quot;https://filebin.net/ktv24crlw7xnqehj/Diamond_Mine.png&quot; width=&quot;352&quot; height=&quot;228&quot; /&gt;
+&lt;p/&gt;While the gameplay has some similarities to Pac-Man games in that you roam around in maze of walls trying to collect dots (diamonds) while avoiding enemies that chase you; this game has some complexities that add to the challenge.
+&lt;p/&gt;The game consists of 20 unique levels (mine shafts) each with 8 diamonds.  The main goal is to dig through each mine shaft with your digger to collect all the diamonds on the screen and then exit the mine shaft.  Each mine shaft cannot be exited until all the diamonds in that particular maze have been collected or lost to the enemies.  Once you clear a mine shaft of diamonds, it becomes walled off and you move on to the next shaft.  Once the 20 levels are cleared, the game loops back to Mine Shaft #1.
+&lt;h3&gt;&lt;a id=&quot;NotesOnGameplay&quot;&gt;&lt;/a&gt;Notes on Gameplay:&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; The diamonds trail behind you like train cars after they are collected.
+&lt;/li&gt;&lt;li&gt; The enemies can both kill you as well as steal your diamonds once you've picked some up.
+&lt;/li&gt;&lt;li&gt; You can shoot the enemies to either kill or stun them (depends on enemy type).
+&lt;/li&gt;&lt;/ul&gt;...
+&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (DrD2k9)</author>
+      <comments>http://tasvideos.org/forum/t/19349</comments>
+      <enclosure length="36446" url="http://tasvideos.org//submissions/5592.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5592S.html</guid>
+      <pubDate>Fri, 07 Jul 2017 23:05:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5590: Timestoppa and j1h7e7's SNES Super Mario World &quot;96 Exit Fewest A or B Presses&quot;  in 5:11:40.63 (decision: rejected)</title>
+      <link>http://tasvideos.org/5590S.html</link>
+      <description>&lt;div&gt;
+&lt;iframe id=&quot;952f2b02_0_0_1929992892&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/ie9yNoKWy1k?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=ie9yNoKWy1k&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game Objectives&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulator used: BizHawk 1.11.6
+&lt;/li&gt;&lt;li&gt; Aims for fewest presses of the A or B buttons (25 presses in total)
+&lt;/li&gt;&lt;li&gt; Does not aim for fastest time, even as a secondary goal
+&lt;/li&gt;&lt;li&gt; Abuses glitches to save A/B presses
+&lt;/li&gt;&lt;li&gt; Aims for 100% completion
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;NonAuthorCredits&quot;&gt;&lt;/a&gt;Non-Author Credits&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+Thanks to SomeGuy712x and Bruno Visnadi for designing many of the strategies used in this TAS
+&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;TechniquesUsed&quot;&gt;&lt;/a&gt;Techniques used&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Chuck Eat (for Orb mainly, but was one time used to get a green naked koopa in the case of CBA Secret Exit)
+&lt;/li&gt;&lt;li&gt; Shell Recycle
+&lt;/li&gt;&lt;li&gt; Dino-soar
+&lt;/li&gt;&lt;li&gt; Sprite slot filling (used in Roy's Castle to prevent Bowser Statues from spawning)
+&lt;/li&gt;&lt;li&gt; Stun glitch (used in Vanilla Dome 2 to spawn a boss, ending the level)
+&lt;/li&gt;&lt;li&gt; Ceiling Clip
+&lt;/li&gt;&lt;li&gt; ATUD (Avoid Time Up Death)
+&lt;/li&gt;&lt;li&gt; ALD (Avoid Lava Death)
+&lt;/li&gt;&lt;li&gt; Slope Clip (Used in Donut Ghost House to hit a vine block without having to jump)
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;Comments&quot;&gt;&lt;/a&gt;Comments&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+We started by branching off an 11 Exit fewest A or B presses TAS that j1h7e7 made (&lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i1731C110_1&quot; href=&quot;https://www.youtube.com/watch?v=dS2uZfFdETE&quot;&gt;link here&lt;/a&gt;), splitting off after the end of Yoshi's Island 3.
+&lt;p/&gt;The TASing process was mostly easy, but there were two moments where we got stuck temporarily: Vanilla Dome 2 norm...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (Timestoppa and j1h7e7)</author>
+      <comments>http://tasvideos.org/forum/t/19347</comments>
+      <enclosure length="264838" url="http://tasvideos.org//submissions/5590.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5590S.html</guid>
+      <pubDate>Fri, 07 Jul 2017 11:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5586: TajTheGenie's NES Sesame Street ABC &quot;100%&quot;  in 05:14.53 (decision: rejected)</title>
+      <link>http://tasvideos.org/5586S.html</link>
+      <description>I used the emulator FCEUX 2.1.4a.
+&lt;p/&gt;The only emulator setting that I have changed from the original download is the frame counter, the lag counter, and the controller for player 1 showing the inputs i make in the bottom left corner.
+&lt;p/&gt;I did not change any major settings in the emulator that would mess with the gameplay my movie does not need setup and there is not a save feature so no verification movie is necessary.
+&lt;p/&gt;There are no warps or passwords in this game The run did not abuse any glitches or programming errors and I honestly do not believe that there are any glitches in this game.
+&lt;p/&gt;The priority of the run was to complete all eight levels of the game from both the mini games (Letter-go-round and Ernie's Big Splash)to completion.
+&lt;p/&gt;Beating this game one hundred percent means that you must complete the 5 levels from letter go round until Ernie, Bert, or Big Bird Begins to dance on the screen and then the three Ernie's Big Splash Levels.
+&lt;p/&gt;The aim of this movie is fastest possible time given that there is not score and there are no items to collect.
+&lt;p/&gt;You cannot die in this game and you do not control any characters at the end of each letter-go-round level Big Bird, E...
+&lt;hr/&gt;
+</description>
+      <author>nobody@tasvideos.org (TajTheGenie)</author>
+      <comments>http://tasvideos.org/forum/t/19340</comments>
+      <enclosure length="2163" url="http://tasvideos.org//submissions/5586.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5586S.html</guid>
+      <pubDate>Thu, 06 Jul 2017 03:42:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5580: Lu9's GBC LEGO Island 2 in 17:13.53 (decision: rejected)</title>
+      <link>http://tasvideos.org/5580S.html</link>
+      <description>In this Game Boy Color adaption of the second game of the LEGO Island trilogy, Pepper must travel to different Islands in an RPG-like fashion, to find and capture The Brickster. Throughout the game you may encounter a few boss battles, and even stealth segments. This game is also known as &amp;quot;Bad RNG Island 2&amp;quot; especially for those who casually collect the trading cards in the game.
+&lt;pre&gt;
+&lt;/pre&gt;&lt;h3&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulator used: BizHawk 1.13.0
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;Comments&quot;&gt;&lt;/a&gt;Comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+There is not much that can be saved TASing this game as it is mostly
+running around skipping dialog. Really the more interesting parts are the boss battles and stealth segments.
+Used rewind (hence why the re-record count is unknown) and frame advance.
+&lt;p/&gt;&lt;hr/&gt;
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Fog.html&quot;&gt;Fog&lt;/a&gt;: Judging.
+&lt;p/&gt;&lt;a href=&quot;//tasvideos.org/Fog.html&quot;&gt;Fog&lt;/a&gt;: Once again, this run is not optimized. This is now the fifth consecutive run that you've submitted that is not optimized.
+&lt;p/&gt;If you submit another run which is not optimized, you will be limited from submitting any more runs until your quality aspects have improved.
+&lt;p/&gt;Please make use of the &lt;a href=&quot;//tasvideos.org/userfiles&quot;&gt;userfiles&lt;/a&gt; before making another submission.
+&lt;p/&gt;Rejecting.
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (Lu9)</author>
+      <comments>http://tasvideos.org/forum/t/19327</comments>
+      <enclosure length="14179" url="http://tasvideos.org//submissions/5580.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5580S.html</guid>
+      <pubDate>Sun, 02 Jul 2017 01:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5579: The8bitbeast's SMS Land of Illusion: Starring Mickey Mouse in 22:48.28 (publication underway)</title>
+      <link>http://tasvideos.org/5579S.html</link>
+      <description>&lt;div&gt;
+&lt;iframe id=&quot;dc370fdd_0_0_580691502&quot; type=&quot;text/html&quot; style=&quot;width:640px;height:480px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/X3wWg6SNZ8g?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=X3wWg6SNZ8g&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;Update: The button file provided syncs on Bizhawk v2.0.1 with the latest SMS improvements, but the TAS was originally made for and optimized for v1.12.2. The original button file can be found here: &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i948C5503_1&quot; href=&quot;//tasvideos.org/userfiles/info/40239298283571806&quot;&gt;http://tasvideos.org/userfiles/info/40239298283571806&lt;/a&gt;
+&lt;p/&gt;Land of Illusion: Starring Mickey Mouse is a platformer released in 1992 for the Sega Master System, and later released on the Game Gear in 1993. Gameplay is very similar to the popular Castle of Illusion: Starring Mickey Mouse which was released on Sega Master System and Sega Genesis. In this game, Mickey must travel get back the Crystal stolen by the Phantom by travelling through many different areas and picking up lots of new abilities and items along the way.
+&lt;p/&gt;This run completes the game as fast as possible. Another possible category is completing the game 100% by obtaining all of the Power Stars (Health upgrades). This is a 8620 frame improvement over &lt;a href=&quot;//tasvideos.org/4369S.html&quot;&gt;#4369: Mephistus's SMS Land of Illusion: Starring Mickey Mouse in 25:11.05&lt;/a&gt; thanks to some new strats and overall optimization.
+&lt;p/&gt;&lt;ul&gt;&lt;li&gt; Emulator used: Bizhawk 1.12.2
+&lt;/li&gt;&lt;li&gt; Plays at 60fps as Land of Illusion had a Brazilian release
+&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;SummaryOfTimesaves&quot;&gt;&lt;/a&gt;Summary of timesaves&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;table class=&quot;wikitable&quot; border=&quot;1&quot;&gt;&lt;tr&gt;&lt;th&gt; Level&lt;/th&gt;&lt;th&gt; Frames Saved&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt; 1. Forest&lt;/td&gt;&lt;td&gt; 41&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;|2. ...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (The8bitbeast)</author>
+      <comments>http://tasvideos.org/forum/t/19326</comments>
+      <enclosure length="31260" url="http://tasvideos.org//submissions/5579.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5579S.html</guid>
+      <pubDate>Sat, 01 Jul 2017 23:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5566: poco_cpp's Windows Yume Nikki &quot;best ending&quot;  in 09:57.83 (decision: rejected)</title>
+      <link>http://tasvideos.org/5566S.html</link>
+      <description>&lt;h4&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulator tool: Hourglass-r81 &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;iBD55AE54_1&quot; href=&quot;https://code.google.com/archive/p/hourglass-win32/&quot;&gt;https://code.google.com/archive/p/hourglass-win32/&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt; Game version : Yume Nikki(Game Link : &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i2635F097_1&quot; href=&quot;http://archive.uboachan.net/media/src/Yume_Nikki.rar&quot;&gt;http://archive.uboachan.net/media/src/Yume_Nikki.rar&lt;/a&gt; )
+&lt;/li&gt;&lt;li&gt; It is to see ending.(Until a Madotsuki(player character) jumps off the veranda.)
+&lt;/li&gt;&lt;li&gt; Aims for the fastest time
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;PleaseDescribeTheGameBriefly&quot;&gt;&lt;/a&gt;Please describe the game briefly.&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+You can jump off the veranda by getting all the effects and throwing out all the effects in the door room.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;OperationalConfirmationEnvironment&quot;&gt;&lt;/a&gt;Operational confirmation environment&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+I made it with windows XP, but I check the operation with the following two.
+&lt;p/&gt;The hourglass setting is the default.(Start System Time:6000)
+&lt;ul&gt;&lt;li&gt; WindowsXP 32bit
+&lt;/li&gt;&lt;li&gt; Windows10(Set hourglass and YumeNikki to &amp;quot;Windows XP(Service Pack3)&amp;quot; compatibility mode and start it.)
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;Movie&quot;&gt;&lt;/a&gt;Movie&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; youtube  : &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i87E371A7_1&quot; href=&quot;https://youtu.be/x7q8yRGVCME&quot;&gt;https://youtu.be/x7q8yRGVCME&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt; niconico : &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i2E10AF3C_1&quot; href=&quot;http://www.nicovideo.jp/watch/sm31463998&quot;&gt;http://www.nicovideo.jp/watch/sm31463998&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;ForThoseWhoDoNotKnowAboutThisGame&quot;&gt;&lt;/a&gt;For those who do not know about this game&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Yume Nikki is a game that enjoys the ambience, there is no clear purpose. It is a game to enjoy seeing lots of (unique ambience) events. The ending of this game is one. I am aiming for the fastest until ending at this run.
+&lt;pre&gt;
+&lt;/pre&gt;The following is the official explanation.
+&lt;ul&gt;&lt;li&gt; It ...
+&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (poco_cpp)</author>
+      <comments>http://tasvideos.org/forum/t/19286</comments>
+      <enclosure length="3782" url="http://tasvideos.org//submissions/5566.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5566S.html</guid>
+      <pubDate>Mon, 26 Jun 2017 14:24:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5565: zoboner's N64 Castlevania Legacy of Darkness &quot;Cornell&quot;  in 48:20.83 (publication underway)</title>
+      <link>http://tasvideos.org/5565S.html</link>
+      <description>&lt;h3&gt;&lt;a id=&quot;WatchOnYoutubeBr&quot;&gt;&lt;/a&gt;Watch on youtube:&lt;br/&gt;&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;div&gt;
+&lt;iframe id=&quot;e36f21a4_0_0_1833534867&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/di6u5x4YwcQ?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=di6u5x4YwcQ&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives:&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+-Play Cornell's quest&lt;br/&gt;
+-Play normal difficulty&lt;br/&gt;
+-Play Lycanthrope only&lt;br/&gt;
+-Uses luck manipulation&lt;br/&gt;
+-Uses out of bound&lt;br/&gt;
+-Uses various skip&lt;br/&gt;
+-Take damages to save time&lt;br/&gt;
+-Beat the game as fast as possible&lt;br/&gt;
+&lt;p/&gt;Castlevania legacy of darkness is a mirror game of Castlevania 64 released in 01/26/1999 (LoD released in 11/30/ 1666), 10 month later for just a new quest (Henry for me isn't a quest it's just a bonus for unlock Carrie, Reinhardt, hard difficulty &amp;amp; goodies!) and some changes in the levels, collisions was corrected and you pay more expensive for a big s**t Castlevania game.&lt;br/&gt;
+I choose to make this TAS, for make revenge of the poor reputation of this game ( I'm a big fan of Castlevania!) and for the Cornell quest, who's an interesting character! Ho! I know zggzdydp's run is more short, but for me it's not a true quest of Castelvania, in this quest you must save 6 children, almost all of the doors are open and you have a guns, it's a joke, after the laser's gun technologies (in the level, tower of science vampires are best scientist, why not!), you can play &amp;quot;Panpan the knight&amp;quot;!&lt;br/&gt;...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (zoboner)</author>
+      <comments>http://tasvideos.org/forum/t/19284</comments>
+      <enclosure length="162836" url="http://tasvideos.org//submissions/5565.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5565S.html</guid>
+      <pubDate>Mon, 26 Jun 2017 03:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5564: KnucklesMaster368's NES VS Super Mario Bros in 10:14.92 (decision: cancelled)</title>
+      <link>http://tasvideos.org/5564S.html</link>
+      <description>VS Super Mario Bros is a modified version of the super popular NES game, Super Mario Bros. This modded version is for the arcade machines, and so it is slightly harder, but easier than Lost Levels. This movie completes it in a hair under 10 minutes and 15 seconds. This is my third attempt of a TAS, the first two were slow WIP's that didn't deserve the name TAS. It is near perfect, but I'd personally like to see what I thought was impossible by TASing, be done.
+&lt;p/&gt;&lt;div&gt;
+&lt;iframe id=&quot;64c42553_0_0_1445908882&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/G5HDvPDBB1Q?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=G5HDvPDBB1Q&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;&lt;pre&gt;
+&lt;/pre&gt;&lt;h3&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulator used: FCEUX 2.2.1 (2.2.2 and 2.2.3 also work)
+&lt;/li&gt;&lt;li&gt; Uses Hardest Difficulty
+&lt;/li&gt;&lt;li&gt; Aims for speed rather than entertainment
+&lt;/li&gt;&lt;li&gt; Glitch abuse
+&lt;/li&gt;&lt;li&gt; Uses collision errors
+&lt;/li&gt;&lt;li&gt; Takes shortest route possible
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;Comments&quot;&gt;&lt;/a&gt;Comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+VS SMB is a slightly longer and harder version. There are no warps to worlds 7 and 8, pipe warp maps may have changes, and in my ROM, the game has a faster timer. Some surprising results were found. This TAS has been in the works for almost a year. With that there are a few things to note.
+&lt;p/&gt;1. Framerules are very screwy. They aren't always every 21 frames
+&lt;p/&gt;2. Things that are usually faster, aren't always that way in this game.
+&lt;p/&gt;3. Pipe warp...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (KnucklesMaster368)</author>
+      <comments>http://tasvideos.org/forum/t/19283</comments>
+      <enclosure length="5653" url="http://tasvideos.org//submissions/5564.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5564S.html</guid>
+      <pubDate>Sun, 25 Jun 2017 18:52:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5560: node1729's Genesis McDonald's Treasure Land Adventure &quot;Beginner (NTSC)&quot;  in 19:59.49 (decision: rejected)</title>
+      <link>http://tasvideos.org/5560S.html</link>
+      <description>&lt;div class=&quot;toc&quot;&gt;Table of contents [&lt;span onclick=&quot;expandTree('wikitoc1')&quot; class=&quot;mktreecmd&quot;&gt;expand all&lt;/span&gt;] [&lt;span onclick=&quot;collapseTree('wikitoc1')&quot; class=&quot;mktreecmd&quot;&gt;collapse all&lt;/span&gt;]&lt;br/&gt;
+&lt;ul class=&quot;mktree&quot; id=&quot;wikitoc1&quot;&gt;&lt;li class=&quot;liOpen&quot;&gt;&lt;a href=&quot;#McdonaldSTreasureLandAdventure&quot;&gt;McDonald's Treasure Land Adventure
+&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;liOpen&quot;&gt;&lt;a href=&quot;#ReasonsForChoosingBeginnerDifficultyOverNormalOrExpert&quot;&gt;Reasons for choosing Beginner difficulty over Normal or Expert
+&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;iframe id=&quot;5b96deb6_0_0_821933080&quot; type=&quot;text/html&quot; style=&quot;width:450px;height:370px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/dy6MSBsVLbU?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=dy6MSBsVLbU&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;a id=&quot;McdonaldSTreasureLandAdventure&quot;&gt;&lt;/a&gt;McDonald's Treasure Land Adventure&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+Most people scoff at the idea of a video game based around McDonald's, however this game was produced by Treasure, the same company that made the games Dynamite Headdy, Wario World, and Mischief Makers.
+Ronald and his friends find a piece of a Treasure map, that leads them on a search, along the way they encounter a Giant Tomato, a Goblin-like alien, and a pirate named Captain Lips, each of these bosses give Ronald a piece of the magical treasure map, which then changes its form and leads them to the moon. They hop on a rocket and travel to the moon, the rocket crashes and they have no way home. Ronald is abducted into an alien spaceship, where he must then find and fight the final boss. The final boss guards the treasure, which was a chest that allows Ronald and his friends to travel home, which is all they wanted in the end.
+&lt;/div&gt;&lt;h2&gt;&lt;a id=&quot;ReasonsForChoosingBeginnerDifficultyOverNormalOrExpert&quot;&gt;&lt;/a&gt;Reasons for choosing Beginner difficulty over Normal or Expert&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Beginner has the fewest amount of screens, cutting out on quite a few autoscrollers.
+&lt;/li&gt;&lt;li&gt; Beginner is the shortest category, so this is also effectively an any% category, but it does not obsolete Sonikkusta...
+&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (node1729)</author>
+      <comments>http://tasvideos.org/forum/t/19267</comments>
+      <enclosure length="7321" url="http://tasvideos.org//submissions/5560.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5560S.html</guid>
+      <pubDate>Tue, 20 Jun 2017 23:28:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5559: Lu9's GBA Super Mario Advance 2: Super Mario World &quot;Luigi Low% (Small Only)&quot;  in 15:26.89 (decision: rejected)</title>
+      <link>http://tasvideos.org/5559S.html</link>
+      <description>&amp;lt;Now using the mGBA core, and more optimized than before. Re-record count is &amp;quot;unknown&amp;quot; because I experimented with using the rewind feature in BizHawk instead of the usual save states. Frame advace was also used.&gt;
+&lt;pre&gt;
+&lt;/pre&gt;&lt;h3&gt;&lt;a id=&quot;GameObjectives&quot;&gt;&lt;/a&gt;Game objectives&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;ul&gt;&lt;li&gt; Emulator used: BizHawk 1.13.0
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;Comments&quot;&gt;&lt;/a&gt;Comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+In this TAS I saved more frames by not having unnecessary frames after defeating bowser, and on the menus, though those could be improved a bit further.
+&lt;/div&gt;&lt;h3&gt;&lt;a id=&quot;StageByStageComments&quot;&gt;&lt;/a&gt;Stage by stage comments&lt;/h3&gt;&lt;div class=&quot;deeper&quot;&gt;
+&lt;h4&gt;&lt;a id=&quot;YoshiSIsland2&quot;&gt;&lt;/a&gt;&amp;lt;Yoshi's Island 2&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Nothing to say here, other than now I am using the hopping glitch.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;YoshiSIsland3&quot;&gt;&lt;/a&gt;&amp;lt;Yoshi's Island 3&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Saved time by running from the start.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;YoshiSIsland4&quot;&gt;&lt;/a&gt;&amp;lt;Yoshi's Island 4&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Nothing to say other than the P-Switch dropping might've interferred with the speed although I am unsure.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;IggySCastle&quot;&gt;&lt;/a&gt;&amp;lt;Iggy's Castle&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Used frame advance on the fence. Could've been slightly more frame perfect.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;DonutPlains1&quot;&gt;&lt;/a&gt;&amp;lt;Donut Plains 1&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Good overall, but could maybe use some polish at the very end.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;DonutSecret1&quot;&gt;&lt;/a&gt;&amp;lt;Donut Secret 1&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Better than my previous TAS, but still needs improvement.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;DonutGhostHouse&quot;&gt;&lt;/a&gt;&amp;lt;Donut Ghost House&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+Boo spinjumping could maybe take less time... or not?
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;DonutPlains3&quot;&gt;&lt;/a&gt;&amp;lt;Donut Plains 3&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+A few frames saved.
+&lt;/div&gt;&lt;h4&gt;&lt;a id=&quot;DonutPlains4&quot;&gt;&lt;/a&gt;&amp;lt;Donut Plains 4&gt;&lt;/h4&gt;&lt;div class=&quot;deeper&quot;&gt;
+This on...
+&lt;hr/&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (Lu9)</author>
+      <comments>http://tasvideos.org/forum/t/19265</comments>
+      <enclosure length="30305" url="http://tasvideos.org//submissions/5559.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5559S.html</guid>
+      <pubDate>Mon, 19 Jun 2017 23:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>#5556: The8bitbeast's PSX Crash Bandicoot: Warped in 39:00.52 (publication underway)</title>
+      <link>http://tasvideos.org/5556S.html</link>
+      <description>&lt;div&gt;
+&lt;iframe id=&quot;63c1d167_0_0_842955376&quot; type=&quot;text/html&quot; style=&quot;width:640px;height:480px;margin:0px;&quot; src=&quot;//www.youtube.com/embed/kqC0XTCwHq0?rel=0&amp;amp;fs=1&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;//www.youtube.com/watch?v=kqC0XTCwHq0&quot; rel=&quot;nofollow&quot;&gt;(Link to video)&lt;/a&gt;
+&lt;/div&gt;
+&lt;p/&gt;Uncommentated version: &lt;a class=&quot;extlink&quot; rel=&quot;nofollow&quot; id=&quot;i55763753_1&quot; href=&quot;https://www.youtube.com/watch?v=GsbY751eEVs&amp;amp;t=1769s&quot;&gt;https://www.youtube.com/watch?v=GsbY751eEVs&amp;amp;t=1769s&lt;/a&gt;
+&lt;h2&gt;&lt;a id=&quot;CategoryDescription&quot;&gt;&lt;/a&gt;Category Description&lt;/h2&gt;&lt;div class=&quot;deeper&quot;&gt;
+Normally, for any% glitchless in this game you have to collect a crystal from each level, then after each 5 levels you fight a boss, totaling 25 levels and 5 bosses. There is a glitch called item glitch which allows you to get all of the crystals in a few minutes (and gems, relics…) meaning that you only have to go into 1 level. There’s also a method to clip the gates which usually block the later areas. Combining these, the game can be beaten by only entering 1 level and the final boss.
+&lt;p/&gt;This category doesn’t allow item glitch or gate clip, meaning that all of the 25 levels and 5 bosses from any% glitchless have to be beaten, although there are still plenty of other glitches in this TAS. This category is simply known as &amp;quot;Any% (no item glitch)&amp;quot; in the RTA community, since gate clip is not RTA viable so it’s not worth restricting.
+&lt;p/&gt;This category could be further broken down into 2 categories: one with zip-zagging and one without (zip-zagging explained later). This TAS uses zip-zagging. One question that can be raised is why...
+&lt;hr/&gt;
+&lt;/div&gt;</description>
+      <author>nobody@tasvideos.org (The8bitbeast)</author>
+      <comments>http://tasvideos.org/forum/t/19256</comments>
+      <enclosure length="95782" url="http://tasvideos.org//submissions/5556.zip" type="application/zip" />
+      <guid>http://tasvideos.org/5556S.html</guid>
+      <pubDate>Sat, 17 Jun 2017 06:54:27 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
