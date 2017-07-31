@@ -5,7 +5,11 @@ function getFeedPub($feed_url) {
     $content = file_get_contents($feed_url);
     $x = new SimpleXmlElement($content);
      
-    echo "<ul class='pub-list'>";
+?>
+
+    <ul class='pub-list'>
+
+    <?php
      
     foreach($x->channel->item as $entry) {
 
@@ -15,15 +19,39 @@ function getFeedPub($feed_url) {
         $link = $entry->link;
         $guid = $entry->guid;
         $description = $entry->description;
+        $category = $entry->category;
+        $rating = $entry->children("media", true)->group->children("community", true)->starRating->attributes()['average'];
+        //echo 'ratingz: ';
+        //echo '<pre>';
+        //echo($category);
+        //echo '</pre>';
     
-        echo "<li><div class='publication'>";
-        echo "<a href='$guid'><h2>" . $title . "</h2></a>";
-        echo "<a href='$youtube' class='wrapper'><span class='youtube'>icon</span><img src='$image'></a>";
-        echo "<div class='publication-content'>
-                <p>".$description."</p>
-            </div></div></li>";
-    }
-    echo "</ul>";
+    ?> 
+        
+        <li>
+            <div class='publication'>
+                <a href='<?php echo $guid; ?>'>
+                    <h2><?php echo $title; ?></h2>
+                </a>
+                <a href='<?php echo $youtube; ?>' class='wrapper'>
+                    <span class='youtube'>youtube icon</span>
+                    <img src='<?php echo $image; ?>' alt="Publication thumbnail">
+                </a>
+                    <h4>Rating:</h4>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                            <span class="sr-only">70% Complete</span>
+                        </div>
+                    </div>
+                <div class='publication-content'>
+                    <p><?php echo $description; ?></p>
+                </div>
+            </div>
+        </li>
+
+    <?php } ?>
+    </ul>
+        <?php
 }
 
 function getFeedSub($feed_url) {
@@ -41,7 +69,7 @@ function getFeedSub($feed_url) {
         $description = $entry->description;
     
         echo "<li><div class='submission'>";
-        echo "<a href='$link'><h3>" . $title . "</h3></a>";
+        echo "<a href='$link'><h6>" . $title . "</h6></a>";
         //echo "<img src='$image'>";
         echo "<div class='submission-content'>
             </div></div></li>";

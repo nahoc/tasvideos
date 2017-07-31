@@ -8,6 +8,14 @@ h6,
 a {
   font-size: 0.7rem; }
 
+ul,
+li,
+p,
+h3,
+h4,
+h5 {
+  color: #2e2e2e; }
+
 .content {
   margin-top: 84px; }
 
@@ -26,16 +34,33 @@ img {
   max-width: 100% !important;
   max-height: 160px !important;
   position: relative;
-  z-index: 1; }
+  z-index: 1;
+  margin-right: 8px; }
 
 a {
   display: inline-block;
-  outline: none !important; }
+  outline: none !important;
+  color: #0275d8; }
+  a:link, a:visited, a:hover, a:active {
+    color: #0275d8; }
+
+.navbar-brand {
+  color: #ffffff; }
 
 h2 {
   font-size: 0.8rem;
   margin-top: 5px;
   font-weight: bold; }
+
+h4 {
+  color: #333;
+  font-weight: normal;
+  display: inline-block;
+  margin-bottom: 5px; }
+
+.progress {
+  height: 6px;
+  max-width: 50px; }
 
 .submission,
 .publication {
@@ -60,16 +85,12 @@ p {
   font-size: 0.7rem;
   margin-bottom: 0.7rem; }
 
-.active {
-  background-color: #bbb; }
-
 .wrapper {
   position: relative;
-  width: 100%;
-  display: block;
-  overflow: auto;
-  text-align: center;
-  z-index: 2; }
+  float: left; }
+
+.active {
+  background-color: #bbb; }
 
 .youtube {
   background-image: url("../images/youtube.png");
