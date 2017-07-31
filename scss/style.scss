@@ -1,4 +1,11 @@
-ul, li, p, h3, h4, h5, h6, a {
+ul,
+li,
+p,
+h3,
+h4,
+h5,
+h6,
+a {
     font-size: 0.7rem;
 }
 
@@ -16,15 +23,14 @@ ul, li, p, h3, h4, h5, h6, a {
     background-color: #531f86!important;
 }
 
-ul {}
-
 img {
-    float: left;
     border-radius: 4px;
-    margin: auto;
+    float: left;
     margin-bottom: 8px;
     max-width: 100%!important;
     max-height: 160px!important;
+    position: relative;
+    z-index: 1;
 }
 
 a {
@@ -37,12 +43,14 @@ h2 {
     margin-top: 5px;
     font-weight: bold;
 }
+
 .submission,
 .publication {
     float: left;
     clear: both;
     max-width: 100%!important;
 }
+
 .submission-content,
 .publication-content {
     float: left;
@@ -56,14 +64,38 @@ iframe {
 
 h1 {
     font-size: 2rem;
+    margin: 0;
 }
 
 p {
     font-size: 0.7rem;
+    margin-bottom: 0.7rem;
 }
 
 .active {
     background-color: #bbb;
+}
+
+.wrapper {
+    position: relative;
+    width: 100%;
+    display: block;
+    overflow: auto;
+    text-align: center;
+    z-index: 2;
+}
+
+.youtube {
+    background-image: url('../images/youtube.png');
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    display: block;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    font-size: 0;
+    z-index: 3;
 }
 
 .tab {
@@ -72,7 +104,7 @@ p {
     border-radius: 0;
     font-size: 0.9rem;
     margin-bottom: 20px;
-    position: fixed; 
+    position: fixed;
     top: 54px;
     z-index: 10;
     outline: 0;

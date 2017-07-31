@@ -10,13 +10,15 @@ function getFeedPub($feed_url) {
     foreach($x->channel->item as $entry) {
 
         $image = $entry->children("media", true)->group->thumbnail->attributes()['url'];
+        $youtube = $entry->children("media", true)->group->player->attributes()['url'];
         $title = $entry->title;
         $link = $entry->link;
+        $guid = $entry->guid;
         $description = $entry->description;
     
         echo "<li><div class='publication'>";
-        echo "<h2>" . $title . "</h2>";
-        echo "<img src='$image'>";
+        echo "<a href='$guid'><h2>" . $title . "</h2></a>";
+        echo "<a href='$youtube' class='wrapper'><span class='youtube'>icon</span><img src='$image'></a>";
         echo "<div class='publication-content'>
                 <p>".$description."</p>
             </div></div></li>";

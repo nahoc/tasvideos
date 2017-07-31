@@ -1,4 +1,11 @@
-ul, li, p, h3, h4, h5, h6, a {
+ul,
+li,
+p,
+h3,
+h4,
+h5,
+h6,
+a {
   font-size: 0.7rem; }
 
 .content {
@@ -13,12 +20,13 @@ ul, li, p, h3, h4, h5, h6, a {
   background-color: #531f86 !important; }
 
 img {
-  float: left;
   border-radius: 4px;
-  margin: auto;
+  float: left;
   margin-bottom: 8px;
   max-width: 100% !important;
-  max-height: 160px !important; }
+  max-height: 160px !important;
+  position: relative;
+  z-index: 1; }
 
 a {
   display: inline-block;
@@ -45,13 +53,35 @@ iframe {
   border: 0; }
 
 h1 {
-  font-size: 2rem; }
+  font-size: 2rem;
+  margin: 0; }
 
 p {
-  font-size: 0.7rem; }
+  font-size: 0.7rem;
+  margin-bottom: 0.7rem; }
 
 .active {
   background-color: #bbb; }
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  display: block;
+  overflow: auto;
+  text-align: center;
+  z-index: 2; }
+
+.youtube {
+  background-image: url("../images/youtube.png");
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-position: center;
+  display: block;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  font-size: 0;
+  z-index: 3; }
 
 .tab {
   width: 50%;
