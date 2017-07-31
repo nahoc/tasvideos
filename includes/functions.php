@@ -58,22 +58,30 @@ function getFeedSub($feed_url) {
     $content = file_get_contents($feed_url);
     $x = new SimpleXmlElement($content);
      
-    echo "<ul class='sub-list'>";
+    ?>
+    
+    <ul class='sub-list'>
      
+    <?php
     foreach($x->channel->item as $entry) {
 
-        //$image = $entry->children("media", true)->group->thumbnail->attributes()['url'];
         $title = $entry->title;
         $link = $entry->link;
         $description = $entry->description;
     
-        echo "<li><div class='submission'>";
-        echo "<a href='$link'><h6>" . $title . "</h6></a>";
-        //echo "<img src='$image'>";
-        echo "<div class='submission-content'>
-            </div></div></li>";
-    }
-    echo "</ul>";
+     ?> 
+     
+        <li>
+            <div class='submission'>
+                <a href='$link'>
+                    <h6><?php echo $title; ?></h6>
+                </a>
+            </div>
+        </li>
+    <?php } ?>
+    </ul>
+
+<?php
 }
 
 ?>
